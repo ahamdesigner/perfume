@@ -1,34 +1,24 @@
 perfume={}
-
 perfume.opinion = opinion
-
 perfume.choice=(perfume.opinion){
-
  if(perfume.opinion){
   perfume.trial
- } 
-
+ }
  if(perfume.trial){
   perfume.custom
  }
-
  if(perfume.custom){
   perfume.design
  }
-
 }
-
 perfume.limitedEdition=(){
  ഡിസൈനർ 
 }
-
 perfume.make=(){
  perfume.choice()
 }
-
 perfume.upgrade=(){
  perfume.limitedEdition()
 }
-
 perfume.make()
 perfume.upgrade()
