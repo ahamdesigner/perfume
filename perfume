@@ -1,1 +1,10 @@
 perfume={}
+
+perfume.opinion = opinion
+
+perfume.choice=(perfume.opinion){}
+
+perfume.make=(){
+perfume.choice()
+}
+perfume.make()
