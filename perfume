@@ -4,6 +4,10 @@ perfume.upgrade()
 
 perfume.opinion = opinion
 perfume.ഡിസൈനർ = designer
+
+perfume.make=(){
+ perfume.choice()
+}
 perfume.choice=(perfume.opinion){
  if(perfume.opinion){
   perfume.trial
@@ -15,12 +19,10 @@ perfume.choice=(perfume.opinion){
   perfume.design
  }
 }
-perfume.limitedEdition=(){
- perfume.ഡിസൈനർ 
-}
-perfume.make=(){
- perfume.choice()
-}
+
 perfume.upgrade=(){
  perfume.limitedEdition()
+}
+perfume.limitedEdition=(){
+ perfume.ഡിസൈനർ
 }
