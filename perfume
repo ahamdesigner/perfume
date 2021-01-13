@@ -1,5 +1,6 @@
 perfume={}
 perfume.opinion = opinion
+perfume.ഡിസൈനർ = designer
 perfume.choice=(perfume.opinion){
  if(perfume.opinion){
   perfume.trial
@@ -12,7 +13,7 @@ perfume.choice=(perfume.opinion){
  }
 }
 perfume.limitedEdition=(){
- ഡിസൈനർ 
+ perfume.ഡിസൈനർ 
 }
 perfume.make=(){
  perfume.choice()
