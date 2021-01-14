@@ -1,4 +1,4 @@
-Notes with essential oils top long intence base notes 
+Notes with essential oils top base
 perfume = top + middle - bottom
 essential oil hops
 Vapor method medium transition 
