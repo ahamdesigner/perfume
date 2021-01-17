@@ -6,6 +6,7 @@ perfume= if(ഓം.interest) else ഓം
 perfume={}
 perfume.customize()
 perfume.upgrade()
+perfume.debug()
 
 perfume.opinion = opinion
 perfume.ഡിസൈനർ = designer
@@ -13,6 +14,9 @@ perfume.ദക്ഷിണ = samarpanam
 perfume.trial = if(like) short time experiance Else skip
 perfume.custom = custom provided || by birth
 perfume.design == common interest || Best sellers
+perfume.കാര്യം = if(interested) plan design
+perfume.console = if(error || !access && in view)
+ഓം.support = if (like) support && debug Else perfume.custom
 
 perfume.customize=(){
  perfume.choice()
@@ -29,9 +33,14 @@ perfume.choice=(perfume.opinion){
  }
 }
 
-perfume.upgrade===(ഓം.interest){
+perfume.upgrade===(){
  perfume.limitedEdition(perfume.ദക്ഷിണ)
 }
-perfume.limitedEdition=(perfume.ദക്ഷിണ){
+perfume.limitedEdition=(ദക്ഷിണ && perfume.കാര്യം){
  perfume.ഡിസൈനർ
 }
+
+perfume.debug==(perfume.console){
+ 
+}
+
