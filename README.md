@@ -1,3 +1,2 @@
-Natural flavours and essential oils
-essential oil hops
-vapor light transition
+Natural flavours 
+vapor light soft
