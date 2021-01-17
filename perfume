@@ -40,7 +40,7 @@ perfume.limitedEdition=(ദക്ഷിണ && perfume.കാര്യം){
  perfume.ഡിസൈനർ
 }
 
-perfume.debug==(perfume.console){
- 
+perfume.debug==(perfume.console || perfume.കാര്യം){
+ ഓം.support
 }
 
