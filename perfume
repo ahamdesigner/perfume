@@ -2,7 +2,7 @@
 ഓം.interest = 
 if(self motivated || self interested) && !forced
 
-perfume=ഓം.interest
+perfume= if(ഓം.interest) else ഓം
 perfume={}
 perfume.customize()
 perfume.upgrade()
@@ -10,7 +10,7 @@ perfume.upgrade()
 perfume.opinion = opinion
 perfume.ഡിസൈനർ = designer
 perfume.ദക്ഷിണ = samarpanam
-perfume.trial = if(like) short time experiance else skip
+perfume.trial = if(like) short time experiance Else skip
 perfume.custom = custom provided || by birth
 perfume.design == common interest || Best sellers
 
@@ -18,13 +18,13 @@ perfume.customize=(){
  perfume.choice()
 }
 perfume.choice=(perfume.opinion){
- if(perfume.opinion && ഓം.interest){
+ if(perfume.opinion){
   perfume.trial
  }
- if(perfume.trial && ഓം.interest){
+ if(perfume.trial){
   perfume.custom
  }
- if(perfume.custom && ഓം.interest){
+ if(perfume.custom){
   perfume.design
  }
 }
