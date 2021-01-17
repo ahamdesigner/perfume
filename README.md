@@ -1,5 +1,3 @@
-Notes with essential oils top base
-perfume = top + middle - bottom
+Natural flavours and essential oils
 essential oil hops
-vapor medium transition 
-identify opinion
+vapor light transition
