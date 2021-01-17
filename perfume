@@ -1,6 +1,8 @@
 ഓം
 ഓം.interest = 
 if(self motivated || self interested) && !forced
+ഓം.support = 
+if (like) support && debug Else perfume.custom
 
 perfume= if(ഓം.interest) else ഓം
 perfume={}
@@ -16,7 +18,7 @@ perfume.custom = custom provided || by birth
 perfume.design == common interest || Best sellers
 perfume.കാര്യം = if(interested) plan design
 perfume.console = if(error || !access && in view)
-ഓം.support = if (like) support && debug Else perfume.custom
+
 
 perfume.customize=(){
  perfume.choice()
