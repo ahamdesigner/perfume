@@ -1,12 +1,12 @@
 perfume={}
-perfume.make()
+perfume.customize()
 perfume.upgrade()
 
 perfume.opinion = opinion
 perfume.ഡിസൈനർ = designer
 perfume.ദക്ഷിണ = samarpanam
 
-perfume.make=(){
+perfume.customize=(){
  perfume.choice()
 }
 perfume.choice=(perfume.opinion){
