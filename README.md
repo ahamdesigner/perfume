@@ -17,9 +17,9 @@ Viswamithra
 * Flexible
 * Initial priority on reach
 ### Product ranges
-1. Custom
-1. Design
-1. Limited Edition (Fans Choice)
+1. Custom (300)
+1. Design (1000)
+1. Limited Edition (Fans Choice priceless)
 ## Web Hosting
 Self hosting with NDA (Non Disclosure Agreement)
 ### Data Privacy
