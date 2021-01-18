@@ -1,15 +1,15 @@
-# Digital image perfumes
+## Digital image perfumes
 Best in the class digital perfume. Highest standard 
 perfume 
-# Slogan
+### Slogan
 Perfume works everything works.
-# Vision
+## Vision
 To improve standard of life.
-# Mission
+## Mission
 Provide the best flavours and upgrade the quality.
 # Supported by
 Viswamitra 
-# Features
+## Features
 * Finest flavours
 * Inteligent activation
 
