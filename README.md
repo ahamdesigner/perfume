@@ -13,4 +13,11 @@ Viswamitra
 ## Features
 * Finest flavours
 * Inteligent activation
+## Pricing
+* Flexible
+* Priority to make available
+## Hosted at
+Self hosting with NDA ( Non Disclosure Agreement)
+### Data Privacy
+Secured
 
