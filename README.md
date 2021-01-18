@@ -19,7 +19,7 @@ Viswamithra
 ### Product ranges
 1. Custom (300)
 1. Design (1000)
-1. Limited Edition (Fans Choice priceless)
+1. Limited Edition (Fans Choice priceless minimum 1,00,000+)
 ## Web Hosting
 Self hosting with NDA (Non Disclosure Agreement)
 ### Data Privacy
