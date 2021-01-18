@@ -9,7 +9,7 @@ To improve standard of life.
 1. Provide the best flavours 
 1. Upgrade the quality.
 # Supported by
-Viswamitra 
+Viswamithra 
 ## Features
 * Finest flavours
 * Inteligent activation
