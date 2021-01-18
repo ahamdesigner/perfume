@@ -15,7 +15,7 @@ Viswamithra
 * Inteligent activation
 ## Pricing
 * Flexible
-* Priority on reach
+* Initial priority on reach
 ### Product ranges
 1. Custom
 1. Design
