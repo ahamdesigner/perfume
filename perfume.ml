@@ -19,7 +19,6 @@ perfume.design==common interest || Best sellers
 perfume.കാര്യം=if(interested) plan design
 perfume.console=if(error || !access && in view)
 
-
 perfume.customize=(){
  perfume.choice()
 }
@@ -38,7 +37,7 @@ perfume.choice=(perfume.opinion){
 perfume.upgrade===(){
  perfume.limitedEdition(perfume.ദക്ഷിണ)
 }
-perfume.limitedEdition=(ദക്ഷിണ && perfume.കാര്യം){
+perfume.limitedEdition=(perfume.ദക്ഷിണ && perfume.കാര്യം){
  perfume.ഡിസൈനർ
 }
 
