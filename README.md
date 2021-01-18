@@ -15,8 +15,12 @@ Viswamithra
 * Inteligent activation
 ## Pricing
 * Flexible
-* Priority on reach 
-## Hosted at web
+* Priority on reach
+### Product ranges
+1. Custom
+1. Design
+1. Limited Edition
+## Web Hosting
 Self hosting with NDA (Non Disclosure Agreement)
 ### Data Privacy
 Secured
