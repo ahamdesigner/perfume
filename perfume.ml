@@ -13,7 +13,7 @@ perfume.ദക്ഷിണ=samarpanam
 perfume.trial=if(like) {short time experiance} else {skip}
 perfume.custom=custom provided || by birth && ('Guru',true)
 perfume.design==common interest || Best sellers
-perfume.കാര്യം=if(interested) plan design
+perfume.കാര്യം=if(interested)
 perfume.console=if(error || !access && in view)
 perfume.digitalMarketing=if(0%) inc digitalanalytics
 
