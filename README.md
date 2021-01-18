@@ -10,4 +10,6 @@ Provide the best flavours and upgrade the quality.
 # Supported by
 Viswamitra 
 # Features
-Finest flavours
+* Finest flavours
+* Inteligent activation
+
