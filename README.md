@@ -19,7 +19,7 @@ Viswamithra
 ### Product ranges
 1. Custom
 1. Design
-1. Limited Edition
+1. Limited Edition (Non Alcoholic)
 ## Web Hosting
 Self hosting with NDA (Non Disclosure Agreement)
 ### Data Privacy
