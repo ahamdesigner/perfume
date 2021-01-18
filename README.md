@@ -16,7 +16,7 @@ Viswamithra
 ## Pricing
 * Flexible
 * Initial priority on reach
-### Product ranges (in ₹)
+### Product ranges (min ₹)
 1. Custom (reg 100)
 1. Design (1000)
 1. Limited Edition (Fans Choice priceless minimum 1,00,000 +)
