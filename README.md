@@ -2,7 +2,7 @@
 Best in the class digital perfume. Highest standard 
 perfume 
 ### Slogan
-Perfume works everything works.
+Perfume thats best.
 ## Vision
 To improve standard of life.
 ## Mission
@@ -15,9 +15,9 @@ Viswamithra
 * Inteligent activation
 ## Pricing
 * Flexible
-* Priority to make available
-## Hosted at
-Self hosting with NDA ( Non Disclosure Agreement)
+* Priority on reach 
+## Hosted at web
+Self hosting with NDA (Non Disclosure Agreement)
 ### Data Privacy
 Secured
 
