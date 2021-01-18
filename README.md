@@ -16,10 +16,10 @@ Viswamithra
 ## Pricing
 * Flexible
 * Initial priority on reach
-### Product ranges (min ₹)
-1. Custom (reg 100)
-1. Design (1000)
-1. Limited Edition (Fans Choice priceless minimum 1,00,000 +)
+### Product ranges
+1. Custom
+1. Design
+1. Limited Edition
 ## Web Hosting
 Self hosting with NDA (Non Disclosure Agreement)
 ### Data Privacy
