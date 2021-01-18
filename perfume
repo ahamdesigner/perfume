@@ -13,8 +13,8 @@ perfume.debug()
 perfume.opinion=opinion
 perfume.ഡിസൈനർ=designer
 perfume.ദക്ഷിണ=samarpanam
-perfume.trial=if(like) short time experiance Else skip
-perfume.custom=custom provided || by birth
+perfume.trial=if(like) {short time experiance} else {skip}
+perfume.custom=custom provided || by birth && ('Guru',true)
 perfume.design==common interest || Best sellers
 perfume.കാര്യം=if(interested) plan design
 perfume.console=if(error || !access && in view)
