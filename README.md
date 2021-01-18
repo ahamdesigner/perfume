@@ -1,8 +1,8 @@
 ## Digital Image perfumes
-Best in the class digital perfume. Highest standard 
+Best in the class digital perfume. High definition standard 
 perfume 
 ### Slogan
-Once you like thats it.
+Once you like cant resist it.
 ## Vision
 To improve standard of impression.
 ## Mission
