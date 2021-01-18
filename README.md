@@ -6,8 +6,8 @@ Perfume works everything works.
 ## Vision
 To improve standard of life.
 ## Mission
-1. Provide the best flavours 
-1. Upgrade the quality.
+1. Provide best flavours 
+1. Upgrade quality.
 # Supported by
 Viswamithra 
 ## Features
