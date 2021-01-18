@@ -1,23 +1,23 @@
 ഓം
-ഓം.interest = 
+ഓം.interest=
 if(self motivated || self interested) && !forced
-ഓം.support = 
+ഓം.support=
 if (like) support && debug Else perfume.custom
 
-perfume= if(ഓം.interest) else ഓം
+perfume=if(ഓം.interest) else ഓം
 perfume={}
 perfume.customize()
 perfume.upgrade()
 perfume.debug()
 
-perfume.opinion = opinion
-perfume.ഡിസൈനർ = designer
-perfume.ദക്ഷിണ = samarpanam
-perfume.trial = if(like) short time experiance Else skip
-perfume.custom = custom provided || by birth
-perfume.design == common interest || Best sellers
-perfume.കാര്യം = if(interested) plan design
-perfume.console = if(error || !access && in view)
+perfume.opinion=opinion
+perfume.ഡിസൈനർ=designer
+perfume.ദക്ഷിണ=samarpanam
+perfume.trial=if(like) short time experiance Else skip
+perfume.custom=custom provided || by birth
+perfume.design==common interest || Best sellers
+perfume.കാര്യം=if(interested) plan design
+perfume.console=if(error || !access && in view)
 
 
 perfume.customize=(){
