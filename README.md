@@ -1,10 +1,10 @@
-## Digital image perfumes
+## Digital Image perfumes
 Best in the class digital perfume. Highest standard 
 perfume 
 ### Slogan
-Perfume thats best.
+Once you like thats it.
 ## Vision
-To improve standard of life.
+To improve standard of impression.
 ## Mission
 1. Provide best flavours 
 1. Upgrade quality.
