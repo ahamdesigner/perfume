@@ -9,7 +9,7 @@ if(!forced && Desire || Interest) return true
 perfume.ഡിസൈനർ=designer
 
 perfume.trial=if(like) {short time experiance} else {skip}
-perfume.custom=custom by birth && ('Guru',true)
+
 perfume.design==common interest || Best sellers
 
 perfume.digitalMarketing=if(0%) inc digitalanalytics
@@ -53,6 +53,7 @@ perfume.console=if(error || !access && in view)
 
 perfume.opinion=if (ഓം.interest) then 
 (Connect && Collect [
+
 മണം,
 പുഷ്പം,
 സുഗന്ധം,
@@ -63,3 +64,5 @@ perfume.ദക്ഷിണ=if (karma) Coffee || equalent && !₹
 elseif (Design) 1000 || equalent && ₹
 else (Limited Edition) Fan Choice priceless && 
 > 1,00,000 || credit
+
+perfume.custom=if(Support by birth && 'Guru',true) return true
