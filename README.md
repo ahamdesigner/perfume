@@ -10,6 +10,7 @@ To improve standard of impression.
 Viswamithra 
 ## Features
 * Finest flavours
+* Smooth Sense
 * Inteligent activation
 ## Pricing
 * Flexible
@@ -19,6 +20,6 @@ Viswamithra
 1. Design
 1. Limited Edition
 ## Web Hosting
-Self hosting with Non Disclosure.
+Self hosting .
 ### Privacy
 Secured
