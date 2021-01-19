@@ -13,15 +13,15 @@ Lingering odor.
 Activate good times.
 
 ## Features
-Finest flavour 
-Smooth Sense 
-Brilliant mixing 
-Inteligent activation 
-clever lasting
+Finest flavour with 
+Smooth Sense and 
+Brilliant mixing Also 
+Inteligent activation with 
+clever lasting odor
 
 ## Pricing
-Flexible 
-Initial priority on reach
+Flexible and 
+Initial priority is on reach
 
 ### Product ranges
 Custom ★ 
