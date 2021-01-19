@@ -1,1 +1,4 @@
-age 34
+digitalanalytics={
+'age': 34;
+'fan group': 30<x<40
+}
