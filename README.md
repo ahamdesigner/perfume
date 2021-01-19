@@ -17,8 +17,10 @@ Wishwamithra
 
 ## Features
 Finest flavour 
-Smooth Sense
-Inteligent activation
+Smooth Sense 
+Brilliant mixing 
+Inteligent activation 
+clever lasting
 
 ## Pricing
 Flexible 
