@@ -1,4 +1,4 @@
-![Fragrance Aroma](fragrance.jpeg)
+![perfume.ml](fragrance.jpeg)
 
 ## Fragrance Aroma
 High definition standard perfume
@@ -16,18 +16,18 @@ Activate good times.
 Viswamithra
 
 ## Features
-* Finest flavours
-* Smooth Sense
-* Inteligent activation
+Finest flavours 
+Smooth Sense
+Inteligent activation
 
 ## Pricing
-* Flexible
-* Initial priority on reach
+Flexible 
+Initial priority on reach
 
 ### Product ranges
-1. Custom
-1. Design
-1. Limited Edition
+Custom 
+Design 
+Limited Edition
 
 ## Web Hosting
 Self hosting.
