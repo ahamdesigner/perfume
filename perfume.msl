@@ -14,7 +14,6 @@ perfume.trial=if(like) {short time experiance} else {skip}
 perfume.custom=custom by birth && ('Guru',true)
 perfume.design==common interest || Best sellers
 perfume.കാര്യം=if(interest)
-perfume.console=if(error || !access && in view)
 perfume.digitalMarketing=if(0%) inc digitalanalytics
 
 perfume.customize(perfume.opinion)
@@ -46,6 +45,7 @@ perfume.limitedEdition=(perfume.ദക്ഷിണ && perfume.കാര്യം
 ഓം.support=
 if Request (Support Queue ~ ???) then perfume.debug()
 
+perfume.console=if(error || !access && in view)
 perfume.debug==(perfume.console || perfume.കാര്യം){
- ഓം.support
+ perfume.customize()
 }
