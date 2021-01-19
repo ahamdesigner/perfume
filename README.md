@@ -20,5 +20,5 @@ Viswamithra
 1. Limited Edition
 ## Web Hosting
 Self hosting with Non Disclosure.
-### Data Privacy
+### Privacy
 Secured
