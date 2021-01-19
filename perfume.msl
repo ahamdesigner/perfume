@@ -6,8 +6,6 @@ else ഓം
 ഓം.interest=
 if(!forced && Desire || Interest) return true
 
-perfume.opinion=opinion
-
 perfume.ഡിസൈനർ=designer
 perfume.ദക്ഷിണ=samarpanam
 perfume.trial=if(like) {short time experiance} else {skip}
@@ -53,5 +51,10 @@ perfume.debug==(perfume.console || perfume.കാര്യം){
 perfume.console=if(error || !access && in view)
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
+
+perfume.opinion=opinion[ഇഷ്ടം മനസ്സിലാക്കുക മണം പുഷ്പം
+സുഗന്ധം വ്യാപ്തി സൗമ്യം]
+
+
 
 perfume.കാര്യം=if(interest)
