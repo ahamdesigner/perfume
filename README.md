@@ -1,22 +1,22 @@
-![perfume.ml](fragrance.jpeg)
+![read perfume.ml](fragrance.jpeg)
 
 ## Fragrance Aroma
 High definition standard perfume
 
 ### Slogan
-Once you start like it cant resist.
+like it else miss.
 
 ## Vision
-To improve standard of impression.
+Get money.
 
 ## Mission
 Activate good times.
 
 # Supported by
-Viswamithra
+Wishwamithra
 
 ## Features
-Finest flavours 
+Finest flavour 
 Smooth Sense
 Inteligent activation
 
