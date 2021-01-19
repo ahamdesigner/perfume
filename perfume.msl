@@ -1,13 +1,13 @@
 ഓം
-ഓം.interest=
-if(self motivated || self interested) && !forced
-ഓം.support=
-if (like) support && debug Else perfume.custom
 
-perfume=if(ഓം.interest) else ഓം
-perfume={}
+perfume=if(ഓം.interest) then perfume={} 
+else ഓം
+
+ഓം.interest=
+if(!forced && Desire || Interest) return true
 
 perfume.opinion=opinion
+
 perfume.ഡിസൈനർ=designer
 perfume.ദക്ഷിണ=samarpanam
 perfume.trial=if(like) {short time experiance} else {skip}
@@ -42,6 +42,9 @@ perfume.upgrade===(perfume.digitalMarketing){
 perfume.limitedEdition=(perfume.ദക്ഷിണ && perfume.കാര്യം){
  perfume.ഡിസൈനർ
 }
+
+ഓം.support=
+if Request (Support Queue = ???) then perfume.debug()
 
 perfume.debug==(perfume.console || perfume.കാര്യം){
  ഓം.support
