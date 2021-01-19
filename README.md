@@ -1,13 +1,11 @@
-## Digital Image perfumes
-Best in the class digital perfume. High definition standard 
-perfume 
+## Fragrance Aroma perfumes
+High definition standard perfume 
 ### Slogan
 Once you like cant resist it.
 ## Vision
 To improve standard of impression.
 ## Mission
-1. Provide best flavours 
-1. Upgrade quality.
+1. Improve the situation around.
 # Supported by
 Viswamithra 
 ## Features
