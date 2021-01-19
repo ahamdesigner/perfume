@@ -7,7 +7,7 @@ High definition standard perfume
 like it else miss.
 
 ## Vision
-Get money.
+Lingering odor.
 
 ## Mission
 Activate good times.
