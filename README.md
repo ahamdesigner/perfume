@@ -24,15 +24,15 @@ Flexible
 Initial priority on reach
 
 ### Product ranges
-Custom 
-Design 
+Custom ★ 
+Design ൦ 
 Limited Edition
 
 ## Web Hosting
 Self hosting.
 
 ### Privacy
-Secured
+Secure
 
 # Supported by
 Wishwamithra
