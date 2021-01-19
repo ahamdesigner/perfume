@@ -12,9 +12,6 @@ Lingering odor.
 ## Mission
 Activate good times.
 
-# Supported by
-Wishwamithra
-
 ## Features
 Finest flavour 
 Smooth Sense 
@@ -36,3 +33,6 @@ Self hosting.
 
 ### Privacy
 Secured
+
+# Supported by
+Wishwamithra
