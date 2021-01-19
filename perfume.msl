@@ -1,4 +1,4 @@
-ഓം
+ഓം.()
 
 perfume=if(ഓം.interest) then perfume={} 
 else ഓം
@@ -7,7 +7,7 @@ else ഓം
 if(!forced && Desire || Interest) return true
 
 perfume.ഡിസൈനർ=designer
-perfume.ദക്ഷിണ=samarpanam
+
 perfume.trial=if(like) {short time experiance} else {skip}
 perfume.custom=custom by birth && ('Guru',true)
 perfume.design==common interest || Best sellers
@@ -16,10 +16,9 @@ perfume.digitalMarketing=if(0%) inc digitalanalytics
 
 perfume.customize(perfume.opinion)
 perfume.upgrade(perfume.digitalMarketing)
-perfume.debug()
 
 perfume.customize=(perfume.opinion){
- perfume.choice(perfume.opinion)
+ perfume.choice()
 }
 perfume.choice=(perfume.opinion){
  if(perfume.opinion){
@@ -36,7 +35,7 @@ perfume.choice=(perfume.opinion){
 perfume.upgrade===(perfume.digitalMarketing){
  perfume.limitedEdition(perfume.ദക്ഷിണ)
 }
-perfume.limitedEdition=(perfume.ദക്ഷിണ && perfume.കാര്യം){
+perfume.limitedEdition=(perfume.ദക്ഷിണ && ഓം.interest){
  perfume.ഡിസൈനർ
 }
 
@@ -44,7 +43,7 @@ perfume.limitedEdition=(perfume.ദക്ഷിണ && perfume.കാര്യം
 if Request (Support Queue ~ ???) then perfume.debug()
 
 
-perfume.debug==(perfume.console || perfume.കാര്യം){
+perfume.debug==(perfume.console || ഓം.interest){
  perfume.customize()
 }
 
@@ -52,9 +51,12 @@ perfume.console=if(error || !access && in view)
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
-perfume.opinion=opinion[ഇഷ്ടം മനസ്സിലാക്കുക മണം പുഷ്പം
-സുഗന്ധം വ്യാപ്തി സൗമ്യം]
+perfume.opinion=if (ഓം.interest) then 
+(Connect && Collect [
+മണം,
+പുഷ്പം,
+സുഗന്ധം,
+വ്യാപ്തി,
+സൗമ്യത])
 
-
-
-perfume.കാര്യം=if(interest)
+perfume.ദക്ഷിണ=samarpanam
