@@ -21,6 +21,6 @@ Viswamithra
 1. Design
 1. Limited Edition
 ## Web Hosting
-Self hosting with NDA (Non Disclosure Agreement)
+Self hosting with Non Disclosure.
 ### Data Privacy
 Secured
