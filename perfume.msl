@@ -44,7 +44,7 @@ perfume.limitedEdition=(perfume.ദക്ഷിണ && perfume.കാര്യം
 }
 
 ഓം.support=
-if Request (Support Queue = ???) then perfume.debug()
+if Request (Support Queue ~ ???) then perfume.debug()
 
 perfume.debug==(perfume.console || perfume.കാര്യം){
  ഓം.support
