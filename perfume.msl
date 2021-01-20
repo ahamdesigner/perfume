@@ -8,11 +8,9 @@ if(!forced && Desire || Interest) return true
 
 perfume.ഡിസൈനർ=designer
 
-perfume.trial=if(like) {short time experiance} else {skip}
+perfume.trial=if(like) {experiance} else {skip}
 
-perfume.design==common interest || Best sellers
-
-perfume.digitalMarketing=if(0%) inc digitalanalytics
+perfume.digitalMarketing=if (0%) merge digitalanalytics
 
 perfume.customize(perfume.opinion)
 perfume.upgrade(perfume.digitalMarketing)
@@ -27,8 +25,8 @@ perfume.choice=(perfume.opinion){
  if(perfume.trial){
   perfume.custom
  }
- if(perfume.custom){
-  perfume.design
+ if(perfume.design){
+  Interest || Best && merge in Collection
  }
 }
 
