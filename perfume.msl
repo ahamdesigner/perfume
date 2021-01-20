@@ -51,3 +51,13 @@ elseif (!error && access && view) return true
 perfume.debug==(perfume.console && ഓം.interest){
  perfume.choice()
 }
+
+digitalanalytics={
+'age': 34;
+'fan age': 27<x<40;
+'fan target': 'vagina';
+'interest':
+{'technology','perfume','travel'},
+}
+
+
