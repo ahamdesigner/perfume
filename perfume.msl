@@ -55,4 +55,6 @@ else (Limited Edition) fancy price && > 1,00,000
 
 perfume.custom=if(Support by birth && 'Guru',true) return true
 
-Dev /\ perfume.console=if(!error || access && view)
+Dev /\ perfume.console=
+if(error || access && view) return false
+elseif (!error && access && view) return true
