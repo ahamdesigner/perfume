@@ -20,7 +20,7 @@ Inteligent activation with
 clever lasting odor
 
 ## Pricing
-Flexible and 
+Flexible and priceless
 Initial priority is on reach
 
 ### Product ranges
