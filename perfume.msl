@@ -1,12 +1,12 @@
 ഓം()
 
 perfume=if(ഓം.interest) then perfume={} 
-else ഓം
+else ഓം()
 
 ഓം.interest=
 if(!forced && Desire || Interest) return interested
 
-perfume.ഡിസൈനർ=designer
+perfume.ഡിസൈനർ()
 
 perfume.digitalMarketing=if (0%) merge digitalanalytics
 
@@ -29,7 +29,7 @@ perfume.upgrade===(perfume.digitalMarketing){
  perfume.limitedEdition(perfume.pricing)
 }
 perfume.limitedEdition=(perfume.pricing && ഓം.interest){
- perfume.ഡിസൈനർ
+ return Service
 }
 
 ഓം.support=
