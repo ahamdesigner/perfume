@@ -29,7 +29,7 @@ Design ൦
 Limited Edition
 
 ## Web Hosting
-Self hosting.
+Virtual Self hosting.
 
 ### Privacy
 Secure
