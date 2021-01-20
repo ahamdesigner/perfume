@@ -1,1 +1,16 @@
-
+{
+    "name": "digital fragrance",
+    "short_name": "fragrance aroma",
+    "description": "Digital fragrance",
+    "display": "odor",
+    "start_url": "/perfume.msl",
+    "scope": "/",
+    "background_color": "#FFFFFF",
+    "url": "https://ahamdesigner.github.io/perfume/perfume.msl",
+    "lang": "ml",
+    "icons":[{
+      "src":"https://ahamdesigner.github.io/perfume/green.png",
+      "type":"image/png",
+      "sizes":"490x480"
+    }]
+}
