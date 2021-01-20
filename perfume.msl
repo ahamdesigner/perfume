@@ -40,9 +40,8 @@ if Request (Support Queue ~ ???) then perfume.debug()
 perfume.opinion=if (ഓം.interest) then 
 (Connect && Collect [aptitude])
 
-perfume.pricing=if (karma) Coffee || equalent && !₹
-elseif (Design) Fan Choice 1000 || equalent && ₹
-else (Limited Edition) fancy price && > 1,00,000 
+perfume.pricing=if (karma) Coffee || 
+elseif Sikka else (Limited Edition) fancy price 
 
 Dev /\ perfume.console=
 if(error || access && view) return false
