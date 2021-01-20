@@ -17,8 +17,8 @@ perfume.choice=(perfume.opinion){
  if(perfume.opinion){
   if(like){experiance} else {skip}
  }
- if(perfume.opinion && perfume.custom){
-  if(Support by birth && 'Guru',true) return true
+ if(perfume.opinion){
+  if(Support && has Guru) return authenticate
  }
  if(perfume.design){
   Interest || Best && merge in Collection
