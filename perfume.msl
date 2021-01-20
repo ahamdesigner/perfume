@@ -54,10 +54,8 @@ perfume.debug==(perfume.console && ഓം.interest){
 
 digitalanalytics={
 'age': 34;
-'fan age': 27<x<40;
-'fan target': 'commons';
+'fan age': PG;
+'fan target': 'Intellectuals';
 'interest':
-{'technology','perfume','travel'},
+{'technology','odor','travel'},
 }
-
-
