@@ -45,8 +45,6 @@ perfume.debug==(perfume.console || ഓം.interest){
  perfume.customize()
 }
 
-perfume.console=if(error || !access && in view)
-
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
 perfume.opinion=if (ഓം.interest) then 
@@ -57,3 +55,5 @@ elseif (Design) Fan Choice 1000 || equalent && ₹
 else (Limited Edition) fancy price && > 1,00,000 
 
 perfume.custom=if(Support by birth && 'Guru',true) return true
+
+Dev /\ perfume.console=if(!error || access && view)
