@@ -8,22 +8,17 @@ if(!forced && Desire || Interest) return true
 
 perfume.ഡിസൈനർ=designer
 
-perfume.trial=if(like) {experiance} else {skip}
-
 perfume.digitalMarketing=if (0%) merge digitalanalytics
 
-perfume.customize(perfume.opinion)
+perfume.choice(perfume.opinion)
 perfume.upgrade(perfume.digitalMarketing)
 
-perfume.customize=(perfume.opinion){
- perfume.choice()
-}
 perfume.choice=(perfume.opinion){
  if(perfume.opinion){
-  perfume.trial
+  if(like){experiance} else {skip}
  }
- if(perfume.trial){
-  perfume.custom
+ if(perfume.opinion && perfume.custom){
+  if(Support by birth && 'Guru',true) return true
  }
  if(perfume.design){
   Interest || Best && merge in Collection
@@ -52,8 +47,6 @@ perfume.opinion=if (ഓം.interest) then
 perfume.pricing=if (karma) Coffee || equalent && !₹
 elseif (Design) Fan Choice 1000 || equalent && ₹
 else (Limited Edition) fancy price && > 1,00,000 
-
-perfume.custom=if(Support by birth && 'Guru',true) return true
 
 Dev /\ perfume.console=
 if(error || access && view) return false
