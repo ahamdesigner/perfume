@@ -1,4 +1,4 @@
-ഓം.()
+ഓം()
 
 perfume=if(ഓം.interest) then perfume={} 
 else ഓം
