@@ -33,9 +33,9 @@ perfume.choice=(perfume.opinion){
 }
 
 perfume.upgrade===(perfume.digitalMarketing){
- perfume.limitedEdition(perfume.ദക്ഷിണ)
+ perfume.limitedEdition(perfume.pricing)
 }
-perfume.limitedEdition=(perfume.ദക്ഷിണ && ഓം.interest){
+perfume.limitedEdition=(perfume.pricing && ഓം.interest){
  perfume.ഡിസൈനർ
 }
 
@@ -52,17 +52,10 @@ perfume.console=if(error || !access && in view)
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
 perfume.opinion=if (ഓം.interest) then 
-(Connect && Collect [
+(Connect && Collect [aptitude])
 
-മണം,
-പുഷ്പം,
-സുഗന്ധം,
-വ്യാപ്തി,
-സൗമ്യത])
-
-perfume.ദക്ഷിണ=if (karma) Coffee || equalent && !₹
-elseif (Design) 1000 || equalent && ₹
-else (Limited Edition) Fan Choice priceless && 
-> 1,00,000 || credit
+perfume.pricing=if (karma) Coffee || equalent && !₹
+elseif (Design) Fan Choice 1000 || equalent && ₹
+else (Limited Edition) fancy price && > 1,00,000 
 
 perfume.custom=if(Support by birth && 'Guru',true) return true
