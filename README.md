@@ -3,8 +3,8 @@
 ## Fragrance Aroma
 High definition standard perfume
 
-### Slogan
-like it else miss.
+## Motto
+Hey you will like.
 
 ## Vision
 Lingering odor.
