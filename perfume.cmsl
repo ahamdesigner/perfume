@@ -67,7 +67,8 @@ else identify(hue,saturation,value)
 perfume.mix=focus(id:#query) pass query(ഓം.listen[n:info]) else 
 (ഓം.search[n:library]) && mix
 
-perfume.Stir=focus(id:#query)
+perfume.Stir=focus(id:#range) 
+if(active)get.value else wait get.value
 (like[n:last])
 
 digitalanalytics={
