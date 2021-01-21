@@ -23,15 +23,29 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
-   
+<style type="text/css">
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+</style>
 </head>
 
 <body id="link" class="Perfume">
 <!--#include virtual="perfume.cmsl" -->
-<img src='fragrance.jpeg' style='width:100%;height:auto;'>
-<input id='color' type='color'>
-<input id='query' type='hidden' style="clear:both;">
-<input id='range' type='range' min='0' max='100' value='10' step='20'>
+<img src='fragrance.jpeg' style='width:100%;height:auto;'/>
+<input id='color' type='color'/>
+<input id='query' class='clearfix' type='hidden'/>
+<input id='range' type='range' min='0' max='100' value='10' step='20'/>
 <script>
 today = new Date();
 function getDate(){
