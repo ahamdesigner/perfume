@@ -13,11 +13,9 @@ Lingering odor.
 Activate good times.
 
 ## Features
-Finest flavour with 
-Smooth Sense and 
-Brilliant mixing Also 
-Inteligent activation with 
-clever lasting odor
+Finest flavour with Smooth Sense. 
+Brilliant mixing with master presision.
+Inteligent activation on times and occasions.
 
 ## Pricing
 Flexible and priceless
@@ -26,7 +24,7 @@ Initial priority is on reach
 ### Product ranges
 Custom ★ 
 Design ൦ 
-Limited Edition
+Limited Edition ₹
 
 ## Web Hosting
 Virtual Self hosting.
