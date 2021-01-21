@@ -34,8 +34,7 @@ Odor(get~like.smell'.'get~like.flower'.'get~like.spice)
 Stir(like~with.intencity) ready Odor with Brand
 
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
-sense
-perfume.limitedEdition(perfume.pricing is true) then experience(Odor)
+ perfume.limitedEdition(perfume.pricing is true) then experience(Odor)
 }
 perfume.limitedEdition=(perfume.pricing && ഓം.interest){
  return Service
