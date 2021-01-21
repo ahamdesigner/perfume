@@ -1,4 +1,4 @@
-![read || sense perfume.cmsl](fragrance.jpeg)
+![sense perfume.cmsl](fragrance.jpeg)
 
 ## Fragrance Aroma
 High definition standard perfume
