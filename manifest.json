@@ -6,10 +6,10 @@
     "start_url": "/perfume.msl",
     "scope": "/",
     "background_color": "#FFFFFF",
-    "url": "https://ahamdesigner.github.io/perfume/perfume.msl",
+    "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "ml",
     "icons":[{
-      "src":"https://ahamdesigner.github.io/perfume/green.png",
+      "src":"https://ahamdesigner.github.io/perfume/bodhi.png",
       "type":"image/png",
       "sizes":"490x480"
     }]
