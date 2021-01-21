@@ -25,8 +25,17 @@ perfume.choice=(perfume.opinion){
  }
 }
 
-perfume.upgrade===(perfume.digitalMarketing){
- perfume.limitedEdition(perfume.pricing)
+perfume.note=if(Collaborator && email=super.syamnath@gmail.com)
+then perfume.mixLogic(Keep)
+
+perfume.mixLogic=import(like choice sheet) then mix
+Brand(get.colour) 
+Odor(get~like.smell'.'get~like.flower'.'get~like.spice) 
+Stir(like~with.intencity) ready Odor with Brand
+
+perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
+sense
+perfume.limitedEdition(perfume.pricing is true) then experience(Odor)
 }
 perfume.limitedEdition=(perfume.pricing && ഓം.interest){
  return Service
