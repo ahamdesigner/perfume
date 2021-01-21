@@ -25,13 +25,12 @@ perfume.choice=(perfume.opinion){
  }
 }
 
-perfume.note=if(Collaborator && email=super.syamnath@gmail.com)
+perfume.note=if(keep Collaborator && email=super.syamnath@gmail.com)
 then perfume.mixLogic(Keep)
 
-perfume.mixLogic=import(like choice sheet) then mix
-Brand(get.colour) 
-Odor(get~like.smell'.'get~like.flower'.'get~like.spice) 
-Stir(like~with.intencity) ready Odor with Brand
+perfume.mixLogic=import(like choice) then 
+mix(get~like[n]) then Brand(like[n:first]) then 
+ready Odor with Stir(like[n:last]) 
 
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
  perfume.limitedEdition(perfume.pricing is true) then experience(Odor)
