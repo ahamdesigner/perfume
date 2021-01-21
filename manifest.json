@@ -3,7 +3,7 @@
     "short_name": "Fragrance Aroma",
     "description": "Digital fragrance",
     "display": "odor",
-    "start_url": "/perfume/index.html",
+    "start_url": "ind.html",
     "scope": "/",
     "background_color": "FloralWhite",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
