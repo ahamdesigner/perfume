@@ -28,12 +28,12 @@ perfume.choice=(perfume.opinion){
 perfume.note=if(keep Collaborator && email=super.syamnath@gmail.com)
 then perfume.mixLogic(Keep)
 
-perfume.mixLogic=import(like choice) then 
-mix(get~like[n]) then Brand(like[n:first]) then 
-ready Odor with Stir(like[n:last]) 
+perfume.mixLogic=if(ind.html)import(like choice) then 
+perfume.Mix() then perfume.Brand() then 
+ready Odor with perfume.Stir() 
 
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
- perfume.limitedEdition(perfume.pricing is true) then experience(Odor)
+ perfume.limitedEdition(perfume.pricing is true && perfume.note) then experience(Odor)
 }
 perfume.limitedEdition=(perfume.pricing && ഓം.interest){
  return Service
@@ -57,6 +57,15 @@ elseif (!error && access && view) return true
 perfume.debug==(perfume.console && ഓം.interest){
  perfume.choice()
 }
+
+perfume.Brand=focus(id:#color) &
+if(wheel){choose:#code} 
+elseif pick(fav)
+else identify(hue,saturation,value) 
+&& adjust if Required 
+
+perfume.mix=(get~like[n])
+perfume.Stir(like[n:last])
 
 digitalanalytics={
 'target': 'Intellectual';
