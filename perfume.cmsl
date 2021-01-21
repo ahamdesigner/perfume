@@ -62,10 +62,13 @@ perfume.Brand=focus(id:#color) &
 if(wheel){choose:#code} 
 elseif pick(fav)
 else identify(hue,saturation,value) 
-&& adjust if Required 
+&& adjust if Required
 
-perfume.mix=(get~like[n])
-perfume.Stir(like[n:last])
+perfume.mix=focus(id:#query) pass query(ഓം.listen[n:info]) else 
+(ഓം.search[n:library]) && mix
+
+perfume.Stir=focus(id:#query)
+(like[n:last])
 
 digitalanalytics={
 'target': 'Intellectual';
