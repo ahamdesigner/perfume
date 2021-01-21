@@ -15,7 +15,7 @@ Activate good times.
 ## Features
 Finest flavour with Smooth Sense. 
 Brilliant mixing with master presision.
-Inteligent activation on times and occasions.
+Featuring Inteligent activation.
 
 ## Pricing
 Flexible and priceless
