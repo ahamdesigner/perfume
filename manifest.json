@@ -9,8 +9,8 @@
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "ml",
     "icons":[{
-      "src":"https://ahamdesigner.github.io/perfume/bodhi.png",
+      "src":"green.png",
       "type":"image/png",
-      "sizes":"490x480"
+      "sizes":"512x512"
     }]
 }
