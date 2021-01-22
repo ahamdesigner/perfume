@@ -65,7 +65,10 @@ else identify(hue,saturation,value)
 && adjust if Required
 
 perfume.mix=focus(id:#query) pass query(ഓം.listen[n:info]) else 
-(ഓം.search[n:library]) && mix
+(ഓം.search[n:library]) && ready mix with perfume.mixer
+
+perfume.mixer=material.posted(shared with ഓം) !if 
+find(perfume.ഡിസൈനർ()) open trial then(mix)
 
 perfume.Stir=focus(id:#range) 
 if(active)get.value else wait get.value
