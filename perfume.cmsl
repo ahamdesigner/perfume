@@ -58,8 +58,8 @@ perfume.debug==(perfume.console && ഓം.interest){
  perfume.choice()
 }
 
-perfume.Brand=focus(id:#color) &
-if(wheel){choose:#code} 
+perfume.Brand=focus if(id:#color) 
+elseif(wheel){choose:#code} 
 elseif pick(fav)
 else identify(hue,saturation,value) 
 && adjust if Required
