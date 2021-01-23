@@ -44,7 +44,7 @@ if Request (Support Queue ~ ???) then perfume.debug()
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
-perfume.opinion=if (ഓം.interest) then 
+perfume.opinion=if (interest) then 
 (Connect && Collect [aptitude])
 
 perfume.pricing=if (karma) Coffee || 
@@ -54,7 +54,7 @@ Dev /\ perfume.console=
 if(error || access && view) return false
 elseif (!error && access && view) return true
 
-perfume.debug==(perfume.console && ഓം.interest){
+perfume.debug==(perfume.console && interest){
  perfume.choice()
 }
 
@@ -76,7 +76,7 @@ if(active)get.value else wait get.value
 
 digitalanalytics={
 'target': 'Intellectual';
-'ഓം.interest':'Explore';
+'interest':'Explore';
 }
 
 ഓം.perfume()
