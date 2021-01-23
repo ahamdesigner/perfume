@@ -3,9 +3,10 @@
     "short_name": "Fragrance Aroma",
     "description": "Digital fragrance",
     "display": "odor",
+    "ഓം":"ഓം ऊँ om ಓಂ ௐ ఓం ওঁ ଓଁ ༀ"
     "start_url": "ind.html",
     "scope": "/",
-    "background_color": "Floral White",
+    "background_color": "FloralWhite",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "ml",
     "icons":[{
