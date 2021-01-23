@@ -1,7 +1,6 @@
 ഓം() 
 
-ഓം.perfume=if(trust && sceptism  || doubt && interest) else override(perfume trust all)
-then activate perfume={} else ഓം()
+ഓം.perfume=if(perfume trust) then activate perfume={} else ഓം()
 
 interest=
 if(!forced && Desire || Interest) return interested
