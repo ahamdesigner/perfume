@@ -1,6 +1,6 @@
 ഓം()
-
-perfume=if(ഓം.interest) then perfume={} 
+ഓം.perfume() = if(trust || doubt) active 
+ഓം.perfume=if(ഓം.interest) then perfume={} 
 else ഓം()
 
 ഓം.interest=
