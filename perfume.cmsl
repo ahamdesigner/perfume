@@ -1,6 +1,7 @@
-ഓം()
-ഓം.perfume() = if(trust || doubt) activate
-ഓം.perfume=if(ഓം.interest) then perfume={} 
+ഓം() 
+
+ഓം.perfume=if(trust || doubt && ഓം.interest) 
+then activate perfume={} 
 else ഓം()
 
 ഓം.interest=
@@ -78,3 +79,5 @@ digitalanalytics={
 'target': 'Intellectual';
 'ഓം.interest':'Explore';
 }
+
+ഓം.perfume()
