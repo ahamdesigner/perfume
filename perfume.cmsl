@@ -1,3 +1,5 @@
+ഓം=involve(manifest.json)
+
 ഓം() 
 
 ഓം.perfume=if(perfume trust) then activate perfume={} else ഓം()
