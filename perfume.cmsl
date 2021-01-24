@@ -35,9 +35,9 @@ perfume.Mix() then perfume.Brand() then
 ready Odor with perfume.Stir() 
 
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
- perfume.limitedEdition(perfume.pricing is true && perfume.note) then experience(Odor)
+ perfume.limitedEdition(perfume.note) then experience(Odor)
 }
-perfume.limitedEdition=(perfume.pricing && ഓം.interest){
+perfume.limitedEdition=(ഓം.interest){
  return Service
 }
 
@@ -48,9 +48,6 @@ if Request (Support Queue ~ ???) then perfume.debug()
 
 perfume.opinion=if (interest) then 
 (Connect && Collect [aptitude])
-
-perfume.pricing=if (karma) Coffee || 
-elseif Sikka else (Limited Edition) fancy price 
 
 Dev /\ perfume.console=
 if(error || access && view) return false
