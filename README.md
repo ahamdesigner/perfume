@@ -4,7 +4,7 @@
 High definition standard perfume
 
 ## Motto
-Hey you will like.
+Hey you will like. 
 
 ## Vision
 Lingering odor.
@@ -27,10 +27,11 @@ Design ൦
 Limited Edition ₹
 
 ## Web Hosting
-Virtual Self hosting.
+Virtual and github pages.
 
 ### Privacy
 Secure
 
 # Supported by
-Wishwamithra
+Wishwamithra 
+Its time for Africa
