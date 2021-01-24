@@ -73,8 +73,8 @@ perfume.Mixer=material.posted(shared with ഓം) !if
 ഓം.connect(perfume.ഡിസൈനർ(ഓം) link) open trial then(mix)
 
 perfume.Stir=focus(id:#range) 
-if(active)get.value else wait get.value
-(like[n:last])
+if(active)get.value else 
+(like[choice:intencity])1
 
 digitalanalytics={
 'target': 'Intellectual';
