@@ -13,13 +13,12 @@ Lingering odor.
 Activate good times.
 
 ## Features
-Finest flavour with Smooth Sense. 
+Finest flavour with Smooth. 
 Brilliant mixing with master presision.
 Featuring Inteligent activation.
 
 ## Pricing
-Flexible and priceless
-Initial priority is on reach
+Flexible and priceless for seekers
 
 ### Product ranges
 Custom ★ 
@@ -34,4 +33,8 @@ Secure
 
 # Supported by
 Wishwamithra 
+
+Captions
 Its time for Africa
+I love my India
+
