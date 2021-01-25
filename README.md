@@ -34,7 +34,7 @@ Secure
 # Supported by
 Wishwamithra 
 
-Captions
+# Captions
 Its time for Africa
 I love my India
 
