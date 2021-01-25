@@ -4,7 +4,7 @@
 High definition standard perfume
 
 ## Motto
-Hey you will like. 
+We like you. 
 
 ## Vision
 Lingering odor.
