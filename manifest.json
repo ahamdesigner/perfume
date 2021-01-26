@@ -4,9 +4,9 @@
     "description": "Digital fragrance",
     "display": "odor",
     "ഓം":"ഓം && ऊँ && om && ಓಂ && ௐ && ఓం && ওঁ && ଓଁ && ༀ",
-    "start_url": "ind.html",
+    "start_url": "indai.html",
     "scope": "/",
-    "background_color": "FloralWhite",
+    "background_color": "FloralRose",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "ml",
     "icons":[{
