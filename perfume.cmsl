@@ -53,11 +53,14 @@ ready Odor with perfume.Stir()
 
 <!-- Pelvis -->
 
+<-- Pelvis --!>
+<!-- Leg -->
+
 perfume.note=if(keep Collaborator && email=super.syamnath@gmail.com)
 then perfume.mixLogic(Keep)
 
-<-- Pelvis --!>
-<!-- Leg --><-- Leg --!>
+<-- Leg --!>
+
 <!-- Knee --><-- Knee --!>
 <!-- Ankle --><-- Ankle --!>
 
