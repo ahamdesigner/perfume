@@ -77,7 +77,7 @@ if Request (Support Queue ~ ???) then perfume.debug()
 
 perfume.choice(perfume.opinion)
 
-perfume.digitalMarketing=if (0%) merge digitalanalytics
+perfume.digitalMarketing=if (100%) merge digitalanalytics
 
 perfume.upgrade(perfume.digitalMarketing)
 
@@ -115,7 +115,6 @@ digitalanalytics={
 'target': 'Intellectual';
 'interest':'Explore';
 }
-
 --!>
 
 <-- body --!>
