@@ -1,19 +1,25 @@
+<!-- Head -->
+
 ഓം=()involve(manifest.json)
+
+perfume.ഡിസൈനർ()
+
+<-- Head --!>
+
+<!-- Neck -->
+
 then ഓം.ഓം next snap('&&') and mergeall => ഓം
 
 ഓം() 
+
+<-- Neck --!>
+
+<!-- Chest!Breast -->
 
 ഓം.perfume=if(perfume trust) then activate perfume={} else ഓം()
 
 interest=
 if(!forced && Desire || Interest) return interested
-
-perfume.ഡിസൈനർ()
-
-perfume.digitalMarketing=if (0%) merge digitalanalytics
-
-perfume.choice(perfume.opinion)
-perfume.upgrade(perfume.digitalMarketing)
 
 perfume.choice=(perfume.opinion){
  if(perfume.opinion){
@@ -27,27 +33,69 @@ perfume.choice=(perfume.opinion){
  }
 }
 
-perfume.note=if(keep Collaborator && email=super.syamnath@gmail.com)
-then perfume.mixLogic(Keep)
-
-perfume.mixLogic=if(ind.html)import(like choice) then 
-perfume.Mix() then perfume.Brand() then 
-ready Odor with perfume.Stir() 
-
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
  perfume.limitedEdition(perfume.note) then experience(Odor)
 }
-perfume.limitedEdition=(ഓം.interest){
- return Service
-}
+
+perfume.opinion=if (interest) then 
+(Connect && Collect [aptitude])
+
+<-- Chest!Breast --!>
+
+<!-- Abdomen -->
+
+perfume.mixLogic=if(indai.html)import(like choice) then 
+perfume.Mix() then perfume.Brand() then 
+ready Odor with perfume.Stir() 
+
+
+<-- Abdomen --!>
+
+<!-- Pelvis -->
+
+perfume.note=if(keep Collaborator && email=super.syamnath@gmail.com)
+then perfume.mixLogic(Keep)
+
+<-- Pelvis --!>
+<!-- Leg --><-- Leg --!>
+<!-- Knee --><-- Knee --!>
+<!-- Ankle --><-- Ankle --!>
+
+<!-- Foot -->
+
+ഓം.perfume()
 
 ഓം.support=
 if Request (Support Queue ~ ???) then perfume.debug()
 
-🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
+<-- Foot --!>
 
-perfume.opinion=if (interest) then 
-(Connect && Collect [aptitude])
+<!-- body -->
+
+perfume.choice(perfume.opinion)
+
+perfume.digitalMarketing=if (0%) merge digitalanalytics
+
+perfume.upgrade(perfume.digitalMarketing)
+
+perfume.limitedEdition=(ഓം.interest){
+ return Service
+}
+
+perfume.Brand=focus if(id:#color) 
+elseif(wheel){choose:#code} 
+elseif pick(fav)
+else identify(hue,saturation,value) 
+&& adjust if Required
+
+perfume.Mixer=material.posted(shared with ഓം) !if 
+ഓം.connect(perfume.ഡിസൈനർ(ഓം) link) open trial then(mix)
+
+perfume.Stir=focus(id:#range) 
+if(active)get.value else 
+(like[choice:intencity])1
+
+<!-- eye -->
 
 Dev /\ perfume.console=
 if(error || access && view) return false
@@ -57,25 +105,16 @@ perfume.debug==(perfume.console && interest){
  perfume.choice()
 }
 
-perfume.Brand=focus if(id:#color) 
-elseif(wheel){choose:#code} 
-elseif pick(fav)
-else identify(hue,saturation,value) 
-&& adjust if Required
-
 perfume.Mix=focus(id:#query) pass query(ഓം.listen[n:info]) else 
 (ഓം.search[n:library]) && ready mix with perfume.Mixer
-
-perfume.Mixer=material.posted(shared with ഓം) !if 
-ഓം.connect(perfume.ഡിസൈനർ(ഓം) link) open trial then(mix)
-
-perfume.Stir=focus(id:#range) 
-if(active)get.value else 
-(like[choice:intencity])1
 
 digitalanalytics={
 'target': 'Intellectual';
 'interest':'Explore';
 }
 
-ഓം.perfume()
+--!>
+
+<-- body --!>
+
+🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
