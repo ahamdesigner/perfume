@@ -22,9 +22,7 @@
 
 <!-- Foot --> <-- Foot --!>
 
-<!-- body -->
-
-<-- body --!>
+<!-- body --> <-- body --!>
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
@@ -99,7 +97,7 @@ perfume.choice=(perfume.opinion){
   if(like){experiance} else {skip}
  }
  if(perfume.opinion){
-  if(Support && has Guru) return authenticate
+  if(Support && has Guru(Syam)) return authenticate
  }
  if(perfume.design){
   Interest || Best && merge in Collection
