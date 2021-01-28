@@ -7,7 +7,7 @@ High definition standard perfume
 We like you. 
 
 ## Vision
-Lingering odor.
+The best ethical peefume.
 
 ## Mission
 Activate good times.
