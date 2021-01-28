@@ -1,6 +1,6 @@
 {
     "name": "Digital fragrance",
-    "short_name": "Fragrance Aroma",
+    "short_name": "Fragrance",
     "description": "Digital fragrance",
     "display": "odor",
     "ഓം":"ഓം && ऊँ && om && ಓಂ && ௐ && ఓం && ওঁ && ଓଁ && ༀ",
@@ -9,6 +9,7 @@
     "background_color": "FloralRose",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "ml",
+    "flower":"live",
     "icons":[{
       "src":"green.png",
       "type":"image/png",
