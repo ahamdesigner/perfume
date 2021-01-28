@@ -31,7 +31,7 @@ Dev /\ perfume.console=
 if(error || access && view) return true
 elseif (!error && access && view) return true 
 
-perfume.ഡിസൈനർ()
+perfume.ഡിസൈനർ(result)
 
 perfume.debug==(perfume.console && interest){
  perfume.choice()
@@ -78,7 +78,7 @@ then perfume.mixLogic(Keep)
 
 perfume.mixLogic=if(indai.html)import(like choice) then 
 perfume.Mix() then perfume.Brand() then 
-ready Odor with perfume.Stir(Nose(Flower)) 
+ready Odor with perfume.Stir(Nose(Flower)) Sniff result
 
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
  perfume.limitedEdition(perfume.note) then experience(Odor)
@@ -104,9 +104,10 @@ perfume.choice=(perfume.opinion){
  }
 }
 
-ഓം=()think(manifest.json)
+ഓം=think(manifest.json)
 
 then ഓം.ഓം next look('&&') and mergeall => ഓം
 
-ഓം()
+ഓം
 
+Flower = ഓം.flower 
