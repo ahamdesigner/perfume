@@ -18,7 +18,7 @@ Brilliant mixing with master presision.
 Featuring Inteligent activation.
 
 ## Pricing
-Flexible and priceless for seekers
+Fixed Pricing
 
 ### Product ranges
 Custom ★ 
