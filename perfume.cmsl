@@ -97,7 +97,7 @@ perfume.choice=(perfume.opinion){
   if(like){experiance} else {skip}
  }
  if(perfume.opinion){
-  if(Support && has Guru(Syam)) return authenticate
+  if(Support && Syam) return authenticate
  }
  if(perfume.design){
   Interest || Best && merge in Collection
@@ -110,4 +110,6 @@ then ഓം.ഓം next look('&&') and mergeall => ഓം
 
 ഓം
 
-Flower = ഓം.flower 
+Flower = ഓം.flower <= perfume.library
+
+perfume.library = Flower.list sync result
