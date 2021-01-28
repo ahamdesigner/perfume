@@ -2,6 +2,10 @@
 
 <!-- Head --> <-- Head --!>
 
+<!-- Ear --> <-- Ear --!>
+
+<-- Nose --> <-- Nose -->
+
 <!-- Neck --> <-- Neck --!>
 
 <!-- Chest ! Breast --> <-- Chest ! Breast --!>
@@ -76,7 +80,7 @@ then perfume.mixLogic(Keep)
 
 perfume.mixLogic=if(indai.html)import(like choice) then 
 perfume.Mix() then perfume.Brand() then 
-ready Odor with perfume.Stir() 
+ready Odor with perfume.Stir(Nose(Flower)) 
 
 perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
  perfume.limitedEdition(perfume.note) then experience(Odor)
@@ -102,9 +106,9 @@ perfume.choice=(perfume.opinion){
  }
 }
 
-ഓം=()involve(manifest.json)
+ഓം=()think(manifest.json)
 
-then ഓം.ഓം next snap('&&') and mergeall => ഓം
+then ഓം.ഓം next look('&&') and mergeall => ഓം
 
 ഓം()
 
