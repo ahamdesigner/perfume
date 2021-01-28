@@ -13,9 +13,10 @@ The best ethical perfume.
 Activate good times.
 
 ## Features
-Finest flavour with Smooth. 
+Finest and Smooth flavour. 
 Brilliant mixing with master presision.
-Featuring Inteligent activation.
+Featuring Inteligent live gradient fade in switch with
+Comfortable fade out to fade in feature
 
 ## Pricing
 Fixed Pricing
@@ -32,9 +33,7 @@ Virtual and github pages.
 Secure
 
 # Supported by
-Wishwamithra 
+വിശ്വമിത്ര 
 
 # Captions
-Its time for Africa
-I love my India
-
+Discovered the undiscovered
