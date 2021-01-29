@@ -15,7 +15,7 @@ Activate good times.
 ## Features
 Finest and Smooth flavour. 
 Brilliant mixing with master presision.
-Featuring Inteligent live gradient fade in switch with
+Featuring Intelligent live gradient fade in switch with
 Comfortable fade out to fade in feature
 
 ## Pricing
