@@ -30,85 +30,85 @@
 
 
 Dev /\ perfume.console=
-if(error || access && view) return true
-elseif (!error && access && view) return true 
+if error || access && view return true
+elseif !error && access && view return true 
 
-perfume.ഡിസൈനർ(result)
+perfume.ഡിസൈനർ result
 
-perfume.debug==(perfume.console && interest){
- perfume.choice()
+perfume.debug== perfume.console && interest {
+ perfume.choice
 }
 
-perfume.Mix=focus(id:#query) pass query(ഓം.listen[n:info]) else 
-(ഓം.search[n:library]) && ready mix with perfume.Mixer
+perfume.Mix=focusid:#query pass queryഓം.listen[n:info] else 
+ഓം.search[n:library] && ready mix with perfume.Mixer
 
 digitalanalytics={
 'target': 'Intellectual';
 'interest':'Explore';
 }
 
-perfume.Brand=focus if(id:#color) 
-elseif(wheel){choose:#code} 
-elseif pick(fav)
-else identify(hue,saturation,value) 
+perfume.Brand=focus if id:#color
+elseif wheel {choose:#code} 
+elseif pick fav
+else identify hue,saturation,value
 && adjust if Required
 
-perfume.Mixer=material.posted(shared with ഓം) !if 
-ഓം.connect(perfume.ഡിസൈനർ(ഓം) link) open trial then(mix)
+perfume.Mixer=material.posted shared with ഓം !if 
+ഓം.connect perfume.ഡിസൈനർ ഓം link open trial then mix
 
-perfume.Stir=focus(id:#range) 
-if(active)get.value else 
-(like[choice:intencity])
+perfume.Stir=focus id:#range
+if active get.value else 
+like[choice:intencity]
 
-perfume.choice(perfume.opinion)
+perfume.choice perfume.opinion 
 
-perfume.digitalMarketing=if (100%) merge digitalanalytics
+perfume.digitalMarketing=if 100% merge digitalanalytics
 
-perfume.upgrade(perfume.digitalMarketing)
+perfume.upgrade perfume.digitalMarketing
 
-perfume.limitedEdition=(ഓം.interest){
+perfume.limitedEdition= ഓം.interest {
  return Service
 }
 
-ഓം.perfume()
+ഓം.perfume
 
 ഓം.support=
-if Request (Support Queue ~ ???) then perfume.debug()
+if Request  Support Queue ~ ??? then perfume.debug
 
-perfume.note=if(keep Collaborator && email=super.syamnath@gmail.com)
-then perfume.mixLogic(Keep)
+perfume.note=if keep Collaborator && email=super.syamnath@gmail.com
+then perfume.mixLogic Keep
 
-perfume.mixLogic=if(indai.html)import(like choice) then 
-perfume.Mix() then perfume.Brand() then 
-ready Odor with perfume.Stir(Nose(Flower)) Sniff result
+perfume.mixLogic=if indai.html import like choice then 
+perfume.Mix then perfume.Brand then 
+ready Odor with perfume.Stir Nose Flower Sniff result
 
-perfume.upgrade===(perfume.digitalMarketing && perfume.mixLogic){
- perfume.limitedEdition(perfume.note) then experience(Odor)
+perfume.upgrade=== perfume.digitalMarketing && perfume.mixLogic {
+ perfume.limitedEdition perfume.note then experience Odor
 }
 
-perfume.opinion=if (interest) then 
-(Connect && Collect [aptitude])
+perfume.opinion=if interest then 
+Connect && Collect [aptitude]
 
-ഓം.perfume=if(perfume trust) then activate perfume={} else ഓം()
+ഓം.perfume=if perfume trust then activate perfume={} else ഓം
 
 interest=
-if(!forced && Desire || Interest) return interested
+if !forced && Desire || Interest return interested
 
 perfume.choice=(perfume.opinion){
- if(perfume.opinion){
-  if(like){experiance} else {skip}
+ if perfume.opinion {
+  if like {experiance} else {skip}
  }
- if(perfume.opinion){
-  if(Support && Syam) return authenticate
+ if perfume.opinion {
+  if Support && Syam return authenticate
  }
- if(perfume.design){
+ if perfume.design {
   Interest || Best && merge in Collection
  }
 }
 
-ഓം=think(manifest.json)
+ഓം=think manifest.json
 
-then ഓം.ഓം next look('&&') and mergeall => ഓം
+then ഓം.ഓം next look '&&' and mergeall => ഓം
 
 ഓം
 
