@@ -116,5 +116,7 @@ Flower = ഓം.flower <= perfume.library
 
 perfume.library = Flower.list sync result
 
-perfume.dispencer = if(unconditional) start dispencer
-else host take chance {}
+perfume.host = ഓം.host
+
+perfume.dispencer = if unconditional start dispencer
+else perfume.host take chance
