@@ -115,3 +115,6 @@ then ഓം.ഓം next look('&&') and mergeall => ഓം
 Flower = ഓം.flower <= perfume.library
 
 perfume.library = Flower.list sync result
+
+perfume.dispencer = if(unconditional) start dispencer
+else host take chance {}
