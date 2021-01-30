@@ -7,7 +7,7 @@ Perfect standard perfume
 Result.
 
 ## Method
-Result Engineering.
+Result Engineering with RAM Result Access Manifest.
 
 ## Vision
 The best ethical perfume.
