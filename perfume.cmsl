@@ -114,9 +114,9 @@ then ഓം.ഓം next look '&&' and mergeall => ഓം
 
 ഓം
 
-Flower = ഓം.flower <= perfume.library
+result = ഓം.odor <= perfume.library
 
-perfume.library = Flower.list sync result
+perfume.library = result.list sync result
 
 perfume.host = ഓം.host
 
