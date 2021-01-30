@@ -4,7 +4,10 @@
 Perfect standard perfume
 
 ## Aim
-Result. 
+Result.
+
+## Method
+Result Engineering.
 
 ## Vision
 The best ethical perfume.
@@ -13,7 +16,7 @@ The best ethical perfume.
 Activate good times.
 
 ## Features
-Finest and Smooth flavour. 
+Finest and Smooth flavour.
 Brilliant mixing with master presision.
 Featuring Intelligent live gradient fade in switch with
 Comfortable fade out to fade in feature
@@ -22,8 +25,8 @@ Comfortable fade out to fade in feature
 Fixed Pricing
 
 ### Product ranges
-Custom ★ 
-Design ൦ 
+Custom ★
+Design ൦
 Limited Edition ₹
 
 ## Web Hosting
@@ -33,7 +36,7 @@ Virtual and github pages.
 Secure
 
 # Supported by
-വിശ്വമിത്ര 
+വിശ്വമിത്ര
 
 # Captions
 Discovered the undiscovered
