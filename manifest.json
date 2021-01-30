@@ -11,6 +11,7 @@
     "lang": "ml",
     "flower":"live",
     "fruit":"live",
+    "odor":"pleasant",
     "host":"syam",
     "icons":[{
       "src":"green.png",
