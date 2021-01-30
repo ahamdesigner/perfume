@@ -96,7 +96,7 @@ Connect && Collect [aptitude]
 interest=
 if !forced && Desire || Interest return interested
 
-perfume.choice=(perfume.opinion){
+perfume.choice= perfume.opinion {
  if perfume.opinion {
   if like {experiance} else {skip}
  }
