@@ -122,7 +122,9 @@ manifest = manifest manifest.json
 perfume.host = manifest.host
 
 perfume.dispencer = if unconditional start dispencer
-else perfume.host take chance => manifest
+else perfume.host => manifest
+
+perfume.host = confirm => access =>  manifest
 
 perfume.filter = ഓം.lang filter then ilang <= filter => manifest
 
@@ -132,3 +134,6 @@ variation identify by blend perfume.level
 
 perfume.level = manifest.survivor with multi
 directional sensors compose Gradient <= level => manifest
+
+body.energy = manifest.energy <= energy => get energy 
+and !heat => manifest
