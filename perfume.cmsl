@@ -52,7 +52,7 @@ digitalanalytics={
 perfume.Brand=focus if id:#color
 elseif wheel choose:#code
 elseif pick fav
-else identify hue,saturation,value
+else identify hue saturation value
 && adjust if Required
 
 perfume.Mixer=material.posted shared with ഓം !if 
