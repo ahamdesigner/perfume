@@ -40,7 +40,7 @@ perfume.debug== perfume.console && interest {
  perfume.choice
 }
 
-perfume.Mix=focusid:#query pass queryഓം.listen[n:info] else 
+perfume.Mix=focus id:#query pass queryഓം.listen[n:info] else 
 ഓം.search[n:library] && ready mix with perfume.Mixer
 
 digitalanalytics={
