@@ -10,6 +10,7 @@
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "ml",
     "flower":"live",
+    "fruit":"live",
     "host":"syam",
     "icons":[{
       "src":"green.png",
