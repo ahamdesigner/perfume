@@ -30,7 +30,7 @@ Design ൦
 Limited Edition ₹
 
 ## Hosting
-Super Virtual and github.
+Super virtual and github.
 
 ### Privacy
 Secure
