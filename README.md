@@ -29,8 +29,8 @@ Custom ★
 Design ൦
 Limited Edition ₹
 
-## Web Hosting
-Virtual and github pages.
+## Hosting
+Super Virtual and github.
 
 ### Privacy
 Secure
