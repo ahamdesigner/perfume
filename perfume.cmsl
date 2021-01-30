@@ -127,5 +127,8 @@ else perfume.host take chance => manifest
 perfume.filter = ഓം.lang filter then ilang <= filter => manifest
 
 perfume.Gradient = Cycle through fragnance with ease 
-variation identify by blend level 
+variation identify by blend perfume.level 
 <= Gradient => manifest
+
+perfume.level = manifest.survivor with multi
+directional sensors compose Gradient <= level => manifest
