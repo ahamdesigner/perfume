@@ -1,10 +1,10 @@
 ![sense perfume.cmsl](fragrance.jpeg)
 
-## Fragrance Aroma
-High definition standard perfume
+## Fragrance
+Perfect standard perfume
 
-## Motto
-We like you. 
+## Aim
+Result. 
 
 ## Vision
 The best ethical perfume.
