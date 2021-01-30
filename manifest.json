@@ -13,6 +13,7 @@
     "fruit":"live",
     "odor":"pleasant",
     "host":"syam",
+    "survivor":"cockroach",
     "icons":[{
       "src":"green.png",
       "type":"image/png",
