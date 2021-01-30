@@ -117,10 +117,15 @@ result = ഓം.odor <= perfume.library
 
 perfume.library = result.list sync result
 
-perfume.host = ഓം.host
+manifest = manifest manifest.json
+
+perfume.host = manifest.host
 
 perfume.dispencer = if unconditional start dispencer
-else perfume.host take chance
+else perfume.host take chance => manifest
 
-perfume.filter = ഓം.lang filter then ilang <= filter
+perfume.filter = ഓം.lang filter then ilang <= filter => manifest
 
+perfume.Gradient = Cycle through fragnance with ease 
+variation identify by blend level 
+<= Gradient => manifest
