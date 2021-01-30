@@ -30,7 +30,6 @@
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
-
 Dev /\ perfume.console=
 if error || access && view return true
 elseif !error && access && view return true 
@@ -122,3 +121,6 @@ perfume.host = ഓം.host
 
 perfume.dispencer = if unconditional start dispencer
 else perfume.host take chance
+
+perfume.filter = ഓം.lang filter then ilang <= filter
+
