@@ -154,3 +154,5 @@ respect => perfume.escape => manifest
 
 perfume.diffusion = manifest.diffuse => sense of smell <= 
 skin => manifest
+
+perfume.evolve = manifest.evolution =< perfume.evolve
