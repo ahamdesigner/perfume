@@ -138,4 +138,12 @@ directional sensors compose Gradient <= level => manifest
 body.energy = manifest.energy <= energy => get energy 
 and !heat => manifest
 
-perfume.fresh = body.remove sweat make cool <= perfume.fresh => manifest
+perfume.fresh = body.remove sweat and make 
+cool <= perfume.fresh => manifest
+
+activate perfume
+
+perfume.medium = air and nose paired <= nose => 
+sensory => manifest
+
+
