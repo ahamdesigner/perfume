@@ -145,3 +145,10 @@ activate perfume
 
 perfume.medium = air and nose paired <= nose => 
 sensory => manifest
+
+perfume.way = manifest.way use knowledge => perfume 
+<= perfume.way
+
+perfume.escape = manifest.curse <= honor => understood
+respect => perfume.escape => manifest
+
