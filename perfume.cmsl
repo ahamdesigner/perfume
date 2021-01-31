@@ -40,8 +40,8 @@ perfume.debug== perfume.console && interest {
  perfume.choice
 }
 
-perfume.Mix=focus id:#query pass queryഓം.listen[n:info] else 
-ഓം.search[n:library] && ready mix with perfume.Mixer
+perfume.Mix=focus id:#query pass query atom.listen[n:info] else 
+atom.search[n:library] && ready mix with perfume.Mixer
 
 digitalanalytics={
 'target': 'Intellectual';
@@ -54,8 +54,8 @@ elseif pick fav
 else identify hue saturation value
 && adjust if Required
 
-perfume.Mixer=material.posted shared with ഓം !if 
-ഓം.connect perfume.ഡിസൈനർ ഓം link open trial then mix
+perfume.Mixer=material.posted shared with atom !if 
+atom.connect perfume.ഡിസൈനർ atom link open trial then mix
 
 perfume.Stir=focus id:#range
 if active get.value else 
@@ -67,13 +67,13 @@ perfume.digitalMarketing=if 100% merge digitalanalytics
 
 perfume.upgrade perfume.digitalMarketing
 
-perfume.limitedEdition= ഓം.interest {
+perfume.limitedEdition= atom.interest {
  return Service
 }
 
-ഓം.perfume
+atom.perfume
 
-ഓം.support=
+atom.support=
 if Request  Support Queue ~ ??? then perfume.debug
 
 perfume.note=if keep Collaborator && email=super.syamnath@gmail.com
@@ -90,7 +90,7 @@ perfume.upgrade=== perfume.digitalMarketing && perfume.mixLogic {
 perfume.opinion=if interest then 
 Connect && Collect [aptitude]
 
-ഓം.perfume=if perfume trust then activate perfume={} else ഓം
+atom.perfume=if perfume trust then activate perfume={} else atom
 
 interest=
 if !forced && Desire || Interest return interested
@@ -107,13 +107,13 @@ perfume.choice= perfume.opinion {
  }
 }
 
-ഓം=think manifest.json
+atom=think manifest.json
 
-then ഓം.ഓം next look '&&' and mergeall => ഓം
+then atom.atom next look '&&' and mergeall => atom
 
-ഓം
+atom
 
-result = ഓം.odor <= perfume.library
+result = atom.odor <= perfume.library
 
 perfume.library = result.list sync result
 
@@ -126,7 +126,7 @@ else perfume.host => manifest
 
 perfume.host = confirm => access =>  manifest
 
-perfume.filter = ഓം.lang filter then ilang <= filter => manifest
+perfume.filter = atom.lang filter then ilang <= filter => manifest
 
 perfume.Gradient = Cycle through fragnance with ease 
 variation identify by blend perfume.level 
