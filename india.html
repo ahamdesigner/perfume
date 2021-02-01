@@ -46,6 +46,12 @@ body {
   clear: both;
   height: 0;
 }
+.notes,#notes {
+  text-align:center;
+  margin-top: 23px;
+  color: purple;
+  list-style:none;
+}
 
 .clearfix { display: inline-block; }
 
@@ -130,13 +136,18 @@ Digital Marketing by superAds limited
 <h6 style=color:mistyrose; align=center>
 Rose Jasmine
 </h6>
+
 -->
 
-<h4 style=color:seagreen; font-family: Noto Sans; align=center>Vetiver</h4>
+<h4 style=color:seagreen; font-family: Noto Sans; align=center>Todays Notes</h4>
 
+<ol class=notes>
+<li>Jasmine</li>
+</ol>
 
-
-
+<ol id=notes>
+<li>Rose</li>
+</ol>
 
 
 
@@ -179,7 +190,7 @@ PhonePeQR_Federal Bank - 5071.png
 today = new Date();
 
 function getDate(){
-    console.info('Happy Space',today);
+    console.info('.notes',today);
 }
 
 getDate()
