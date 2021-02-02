@@ -10,7 +10,7 @@ Result.
 Result Engineering with RAM Result Access Manifest.
 
 ## Vision
-The best ethical perfume.
+Sell perfume make money and help those need money.
 
 ## Mission
 Activate good times.
