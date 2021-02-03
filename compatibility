@@ -1,7 +1,11 @@
 Purpose
 
 Make perfume compatible to users
+Create compatibility framework
 
 code
-inputs:1
+
+input:1
+Sense:1
+output:1
 
