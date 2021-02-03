@@ -1,16 +1,14 @@
-Purpose
-
+Purpose:
 Make perfume compatible to users
 Create compatibility framework
 
-code
-
+code:
 input:1
 Sense:1
 output:1
 
 Network topology: hybdid
-Network connection: wireless
+Network connection: wireless view
 Network Connector: switch
 
 Internet time: Asia/Kolkata
@@ -19,4 +17,4 @@ Priority time: India
 Private time: padmanabham
 Private connector: connector
 
-Time to switch: Just we met
+Time to switch: View enqeue
