@@ -3,6 +3,7 @@ Make perfume compatible to users
 Create compatibility framework
 
 code:
+
 input:1
 Sense:1
 output:1
@@ -17,4 +18,4 @@ Priority time: India
 Private time: padmanabham
 Private connector: connector
 
-Time to switch: Unseen
+Time to switch: if Unseen switch view
