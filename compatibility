@@ -11,6 +11,7 @@ output:1
 
 Network topology: hybdid
 Network connection: wireless
+Network Connector: switch
 
 Internet time: Asia/Kolkata
 Time: Asia
