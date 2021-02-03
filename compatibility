@@ -9,5 +9,5 @@ input:1
 Sense:1
 output:1
 
-Network: hybrid
+Network type: hybrid
 
