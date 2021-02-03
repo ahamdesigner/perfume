@@ -4,10 +4,6 @@ Create compatibility framework
 
 code:
 
-input:1
-Sense:1
-output:1
-
 Network topology: hybdid
 Network connection: wireless view
 Network Connector: switch
