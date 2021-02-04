@@ -3,7 +3,7 @@
     "short_name": "Fragrance",
     "description": "Digital fragrance",
     "display": "odor",
-    "atom":"ഓം && ऊँ && om && ಓಂ && ௐ && ఓం && ওঁ && ଓଁ && ༀ",
+    "atom":"ഓം ऊँ om ಓಂ ௐ ఓం ওঁ ଓଁ ༀ",
     "start_url": "india.html",
     "scope": "/",
     "background_color": "FloralRose",
