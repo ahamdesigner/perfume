@@ -11,6 +11,7 @@ Design Pattern: Fibonacci
 Network topology: hybrid
 Network connection: wireless view
 Network Connector: switch
+
 Universal connection: Kailash
 
 Internet time: Asia/Kolkata
@@ -18,5 +19,7 @@ Time: Asia
 Priority time: India
 Private time: padmanabham
 Private connector: connector
+Successful responses: OK Accepted
+Redirection: See Other
 
-Time to switch: if Unseen switch view
+Time to switch: if Unseen switch view 
