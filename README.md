@@ -1,38 +1,38 @@
 ![sense perfume.cmsl](fragrance.jpeg)
 
-## Fragrance
+# Fragrance
 Perfect standard perfume
 
-## Aim
+# Aim
 Result.
 
-## Method
+# Method
 Result Engineering with RAM Result Access Manifest.
 
-## Vision
-Sell perfume make money and help those need money.
+# Vision
+Perfume that make value and do circulate money.
 
-## Mission
+# Mission
 Activate good times.
 
-## Features
+# Features
 Finest and Smooth flavour.
 Brilliant mixing with master presision.
 Featuring Intelligent live gradient fade in switch with
 Comfortable fade out to fade in feature
 
-## Pricing
+# Pricing
 Fixed Pricing
 
-### Product ranges (Deprecated)
+# Product ranges (Deprecated)
 Custom ★
 Design ൦
 Limited Edition ₹
 
-## Hosting
+# Hosting
 Super virtual and github.
 
-### Privacy
+# Privacy
 Secure
 
 # Supported by
