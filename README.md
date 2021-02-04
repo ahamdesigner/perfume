@@ -24,7 +24,7 @@ Comfortable fade out to fade in feature
 ## Pricing
 Fixed Pricing
 
-### Product ranges
+### Product ranges (Deprecated)
 Custom ★
 Design ൦
 Limited Edition ₹
