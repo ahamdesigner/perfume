@@ -40,8 +40,13 @@ let calltrigger = document.getElementById('name')
 calltrigger.onclick = function() {this.innerHTML='';}
 
 
+let contract = document.getElementById('participate')
+contract.onclick = function() {
+ document.getElementById('aura').removeAttribute('hidden')
+ document.getElementById('agree').removeAttribute('hidden')
+}
 
-  
+
 
  
 
