@@ -19,7 +19,7 @@ function getDate(){
     console.info('.notes',today);
 }
 getDate()
-console.log('fine')
+console.log('Console is ready')
 
 
  let paytrigger = document.getElementById('cash')
