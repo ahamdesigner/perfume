@@ -35,16 +35,11 @@ console.log('Console is ready')
  } 
 
 
-
-
-
+// hide touch
 let calltrigger = document.getElementById('name')
+calltrigger.onclick = function() {this.innerHTML='';}
 
- calltrigger.addEventListner('touchstart',()=> {
 
-  this.innerHTML='';
-
-}) 
 
   
 
