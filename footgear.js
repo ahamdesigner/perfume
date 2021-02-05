@@ -13,7 +13,13 @@ console.log('fine')
 
   if(this.checked = true) {
 
-  document.getElementById("payment").removeAttribute('hidden')
+   document.getElementById("payment").removeAttribute('hidden')
+
+  } 
+
+  if(this.checked = false) {
+
+   document.getElementById("payment").setAttribute('hidden')
 
   } 
 
