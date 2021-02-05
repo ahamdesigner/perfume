@@ -40,11 +40,15 @@ console.log('Console is ready')
 
 let calltrigger = document.getElementById('name')
 
- calltrigger.onclick=function() {
+ calltrigger.addEventListner('touchstart',()=> {
 
   this.innerHTML='';
 
- } 
+}) 
+
+  
+
+ 
 
 
 
