@@ -1,4 +1,4 @@
-today = new Date();
+let today = new Date();
 function getDate(){
     console.info('.notes',today);
 }
