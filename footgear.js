@@ -17,12 +17,6 @@ console.log('fine')
 
   } 
 
-  if(this.checked = false) {
-
-   document.getElementById("payment").setAttribute('hidden')
-
-  } 
-
  } 
 
 }
