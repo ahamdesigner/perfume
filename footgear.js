@@ -38,9 +38,9 @@ console.log('Console is ready')
 
 
 
-let paytrigger = document.getElementById('name')
+let calltrigger = document.getElementById('name')
 
- paytrigger.onclick=function() {
+ calltrigger.onclick=function() {
 
   this.innerHTML='';
 
