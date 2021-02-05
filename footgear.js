@@ -12,7 +12,7 @@ console.log("hi")
     console.log = function () {
       for (var i = 0; i < arguments.length; i++) {
         if (typeof arguments[i] == 'object') {
-            logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<br />';
+            logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<div class="clearfix"></div>';
         } else {
             logger.innerHTML += arguments[i] + '<div class="clearfix"></div>';
         }
