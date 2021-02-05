@@ -1,10 +1,4 @@
 window.onload=function() {
-let today = new Date();
-function getDate(){
-    console.info('.notes',today);
-}
-getDate()
-console.log('fine')
 
 (function () {
     var old = console.log;
@@ -19,6 +13,14 @@ console.log('fine')
       }
     }
 })();
+
+let today = new Date();
+function getDate(){
+    console.info('.notes',today);
+}
+getDate()
+console.log('fine')
+
 
  let paytrigger = document.getElementById('cash')
 
