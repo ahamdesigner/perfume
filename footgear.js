@@ -1,5 +1,3 @@
-window.onload=function() {
-
 (function () {
     var old = console.log;
     var logger = document.getElementById('log');
@@ -13,6 +11,8 @@ window.onload=function() {
       }
     }
 })();
+
+window.onload=function() {
 
 let today = new Date();
 function getDate(){
