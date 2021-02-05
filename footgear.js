@@ -34,4 +34,25 @@ console.log('Console is ready')
 
  } 
 
+
+
+
+
+let paytrigger = document.getElementById('name')
+
+ paytrigger.onclick=function() {
+
+  this.innerHTML='';
+
+ } 
+
+
+
+
+
+
+
+
+
+
 }
