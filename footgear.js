@@ -14,7 +14,7 @@ console.log("hi")
         if (typeof arguments[i] == 'object') {
             logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<br />';
         } else {
-            logger.innerHTML += arguments[i] + '<div class="clearfix" />';
+            logger.innerHTML += arguments[i] + '<div class="clearfix"></div>';
         }
       }
     }
