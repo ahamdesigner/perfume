@@ -4,10 +4,13 @@ function getDate(){
 }
 getDate()
 
-if(document.getElementById("cash").checked = true;) {
-document.getElementById("payment").removeAttribute('hidden')
-} else {
-document.getElementById("payment").setAttribute('hidden')
+function getPaid(){
+ if(document.getElementById("cash").checked = true;) {
+  document.getElementById("payment").removeAttribute('hidden')
+ } else {
+  document.getElementById("payment").setAttribute('hidden')
+ }
 }
+getPaid()
 
 
