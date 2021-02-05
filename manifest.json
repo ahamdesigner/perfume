@@ -7,7 +7,7 @@
     "start_url": "india.html",
     "scope": "/",
     "manifest":"manifest",
-    "background_color": "Misty Rose",
+    "background_color": "#F5FFFA",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "sa hi en ta ka mr ml",
     "flower":"live",
