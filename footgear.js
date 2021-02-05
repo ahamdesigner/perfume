@@ -5,9 +5,9 @@ function getDate(){
 getDate()
 
 if(document.getElementById("cash").checked = true;) {
-document.getElementById("payment")removeAttribute('hidden')
+document.getElementById("payment").removeAttribute('hidden')
 } else {
-document.getElementById("payment")setAttribute('hidden')
+document.getElementById("payment").setAttribute('hidden')
 }
 
 
