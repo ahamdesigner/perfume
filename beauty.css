@@ -22,6 +22,16 @@ body {
   line-height:31px;
 }
 
+.sandal {
+  text-align:center;
+  margin-top: 34px;
+  color: #F9DC90;
+  list-style:none;
+  margin-left: 0;
+  padding-left: 0;
+  line-height:31px;
+}
+
 .clearfix { display: inline-block; }
 
 /* start commented backslash hack \*/
@@ -98,8 +108,4 @@ input:checked + .slider:before {
 
 em:focus {
  outline: none;
-}
-
-.sandal {
- color: #F9DC90;
 }
