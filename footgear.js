@@ -1,11 +1,3 @@
-let today = new Date();
-function getDate(){
-    console.info('.notes',today);
-}
-getDate()
-
-console.log("hi")
-
 (function () {
     var old = console.log;
     var logger = document.getElementById('log');
@@ -20,3 +12,10 @@ console.log("hi")
     }
 })();
 
+let today = new Date();
+function getDate(){
+    console.info('.notes',today);
+}
+getDate()
+
+console.log("hi")
