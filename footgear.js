@@ -15,10 +15,8 @@ console.log('fine')
 
   document.getElementById("payment").removeAttribute('hidden')
 
- } else {
+  } 
 
-  document.getElementById("payment").setAttribute('hidden')
-
-  }
  } 
+
 }
