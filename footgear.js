@@ -16,7 +16,7 @@ window.onload=function() {
 
 let today = new Date();
 function getDate(){
-    console.info('.notes',today);
+    console.info('Notes',today);
 }
 getDate()
 console.log('Console is ready')
