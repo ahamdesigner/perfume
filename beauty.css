@@ -108,3 +108,7 @@ input:checked + .slider:before {
 em:focus {
  outline: none;
 }
+
+.infinity path {
+ fill: orange;
+}
