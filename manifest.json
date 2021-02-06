@@ -7,7 +7,7 @@
     "start_url": "india.html",
     "scope": "/",
     "manifest":"manifest",
-    "background_color": "#F5FFFA",
+    "background_color": "#RRGGBB",
     "theme_color": "#RRGGBB",
     "orientation":"natural",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
