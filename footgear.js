@@ -39,7 +39,6 @@ console.log('Console is ready')
 let contract = document.getElementById('participate')
 contract.onclick = function() {
  document.getElementById('aura').removeAttribute('hidden')
- document.getElementById('agree').removeAttribute('hidden')
 }
 
 
