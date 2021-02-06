@@ -4,7 +4,7 @@
     "description": "Digital fragrance",
     "display": "standalone",
     "atom":"ऊँ",
-    "start_url": "india.html",
+    "start_url": "digitalimage.html",
     "scope": "/",
     "manifest":"manifest",
     "background_color": "#ffa500",
