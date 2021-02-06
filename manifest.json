@@ -2,7 +2,7 @@
     "name": "Digital fragrance",
     "short_name": "Perfume",
     "description": "Digital fragrance",
-    "display": "minimal-ui",
+    "display": "standalone",
     "atom":"ऊँ",
     "start_url": "india.html",
     "scope": "/",
