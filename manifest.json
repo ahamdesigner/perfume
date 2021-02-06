@@ -8,7 +8,8 @@
     "scope": "/",
     "manifest":"manifest",
     "background_color": "#F5FFFA",
-    "theme_color": "#F5FFFA"
+    "theme_color": "#F5FFFA",
+    "orientation":"natural",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
     "lang": "sa hi en ta ka mr ml",
     "flower":"live",
