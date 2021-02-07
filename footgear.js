@@ -19,7 +19,7 @@ function getDate(){
     console.info('Notes',today);
 }
 getDate()
-console.log('<Designers Code\>')
+console.log('Designers Code')
 
  let paytrigger = document.getElementById('cash')
 
@@ -32,7 +32,6 @@ console.log('<Designers Code\>')
   } 
 
  } 
-
 
 
 let contract = document.getElementById('participate')
