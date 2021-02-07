@@ -41,7 +41,7 @@ function patternoflife(num) {
    return patternoflife(num - 1) + patternoflife(num - 2); 
 } 
 
-console.log('Designers Code', patternoflife(1))
+console.log('Designers Code', patternoflife(2))
 
  
 
