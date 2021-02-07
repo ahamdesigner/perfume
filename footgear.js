@@ -32,7 +32,9 @@ let contract = document.getElementById('participate')
 contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
 }
+for (var avatar = 1; avatar <= 10; avatar++) {
+ console.log('Designers Code', avatar);
+}
 
-console.log('Designers Code'
 
 }
