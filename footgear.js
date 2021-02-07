@@ -33,18 +33,6 @@ contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
 }
 
-function patternoflife(num) {    
-   if(num==1) 
-      return 0; 
-   if (num == 2) 
-      return 1; 
-   return patternoflife(num - 1) + patternoflife(num - 2); 
-} 
-
-console.log('Designers Code', patternoflife(2))
-
- 
-
-
+console.log('Designers Code'
 
 }
