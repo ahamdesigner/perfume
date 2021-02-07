@@ -28,5 +28,5 @@
       "sizes":"512x512",
       "purpose": "maskable"
     }],
-    "air_conditioner":"portableAc"
+    "Ambience":"portableAc"
 }
