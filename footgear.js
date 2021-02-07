@@ -33,7 +33,7 @@ contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
 }
 
-for (var avatar = 1; avatar <= 10; avatar++) {
+for (let avatar = 1; avatar <= 1; avatar++) {
  console.log('Designers Code', avatar);
 }
 
