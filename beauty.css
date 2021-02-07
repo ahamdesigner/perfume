@@ -1,4 +1,4 @@
-A@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Noto+Sans&display=swap');
 
 body {
  font-family: 'Comfortaa';
@@ -118,7 +118,6 @@ em:focus {
 .chakra {
   animation: blinker 1s linear infinite;
   color: black;
-  display: inline;
 }
 
 @keyframes blinker {
