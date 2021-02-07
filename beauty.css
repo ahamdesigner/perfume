@@ -112,3 +112,13 @@ em:focus {
 .infinity path {
  fill: orange;
 }
+
+.chakra {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
