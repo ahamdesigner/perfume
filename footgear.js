@@ -45,7 +45,7 @@ function getRandomColor() {
   return color;
 }
 
-document.getElementsByTagName("HTML").style.color= getRandomColor();
+document.getElementById("?").style.color= getRandomColor();
 
 console.log('Designers Code', getRandomColor());
 
