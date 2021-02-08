@@ -1,8 +1,8 @@
 (function () {
-    var old = console.log;
-    var logger = document.getElementById('log');
+    let old = console.log;
+    let logger = document.getElementById('log');
     console.log = function () {
-      for (var i = 0; i < arguments.length; i++) {
+      for (let i = 0; i < arguments.length; i++) {
         if (typeof arguments[i] == 'object') {
             logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<div class="clearfix"></div>';
         } else {
@@ -37,9 +37,9 @@ for (let avatar = 1; avatar <= 9; avatar++) {
 }
 
 function getRandomColor() {
-  var letters = '0123456789ABCDEF';
-  var color = '#';
-  for (var i = 0; i < 6; i++) {
+  let letters = '0123456789ABCDEF';
+  let color = '#';
+  for (let i = 0; i < 6; i++) {
     color += letters[Math.floor(Math.random() * 16)];
   }
   return color;
