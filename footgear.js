@@ -47,6 +47,6 @@ function getRandomColor() {
 
 document.getElementById("?").style.color= getRandomColor();
 
-console.log('Designers Code', getRandomColor());
+console.log('Designers Code: Nice Scent', getRandomColor());
 
 }
