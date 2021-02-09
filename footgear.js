@@ -1,11 +1,5 @@
 window.onload=function() {
 
-let design = {
-  "html":"<figure>Scent</figure>"
-}
-
-document.getElementsByClassName('Perfume').innerHTML = design.html
-
 (function () {
     let old = console.log;
     let logger = document.getElementById('log');
