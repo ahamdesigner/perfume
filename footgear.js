@@ -21,13 +21,6 @@ function getDate(){
   
 }
 
- let paytrigger = document.getElementById('cash')
- paytrigger.onchange=function() {
- if(this.checked = true) {
-   document.getElementById("payment").removeAttribute('hidden')
- } 
-} 
-
 let contract = document.getElementById('participate')
 contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
