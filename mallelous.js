@@ -30,7 +30,7 @@ for (let avatar = 1; avatar <= 9; avatar++) {
 }
 
 function getRandomColor() {
-  let letters = '123456789ABCDEF';
+  let letters = '123456789ABCF';
   let color = '#';
   for (let i = 0; i < 6; i++) {
     color += letters[Math.floor(Math.random() * 16)];
