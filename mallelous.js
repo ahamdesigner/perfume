@@ -31,7 +31,7 @@ for (let avatar = 1; avatar <= 9; avatar++) {
 }
 
 // Get the 3 ingredients.
-let Ingredients =  
+let Collection =  
 [
 'Vetiver',
 'Woody',
@@ -46,9 +46,9 @@ let Ingredients =
 ];
 
 for (let mix = 0; mix < 3; mix++) {
-let MixIngredient = Math.floor(Math.random() * Ingredients.length);
-let IngredientsList  = 'ingr-' + mix;
-document.getElementById(IngredientsList).innerHTML = Ingredients[MixIngredient]
+let MixIngredient = Math.floor(Math.random() * Collection);
+let CollectionList  = 'ingr-' + mix;
+document.getElementById(CollectionList).innerHTML = Collection[MixIngredient]
 }
 
 function getRandomColor() {
