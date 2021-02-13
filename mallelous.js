@@ -30,8 +30,9 @@ contract.onclick = function() {
 for (let avatar = 1; avatar <= 9; avatar++) {
 }
 
-for (let step = 0; step < 3; step++) {
-  // Runs 3 times, with values of step 0 through 2.
+// Get the 3 ingredients.
+for (let ingredient = 0; ingredient < 3; ingredient++) {
+  
  
 }
 
