@@ -1,5 +1,6 @@
+// Pwa identify the contents
 window.onload=function() {
-
+// Make the console available in the Pwa itself
 (function () {
     let old = console.log;
     let logger = document.getElementById('log');
@@ -14,23 +15,23 @@ window.onload=function() {
     }
 })();
 
+//Get the date today
 getDate()
-
-let today = new Date();
 function getDate(){
-  
+  let today = new Date();
 }
 
+// Enable aurafor participants
 let contract = document.getElementById('participate')
 contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
 }
 
-
-for (let avatar = 1; avatar <= 9; avatar++) {
+// Age the collections
+for (let age = 1; age <= 9; age++) {
 }
 
-// Get the 3 ingredients.
+// Get Collection of ingredients.
 let Collection =  
 [
 'Vetiver','Woody','Citrus','Mint','Cardamom','Saffron',
@@ -46,12 +47,14 @@ let Collection =
 'Vanila','Ylang Ylang'
 ];
 
+// Mix 3 ingredients from collection
 for (let mix = 0; mix < 3; mix++) {
 let MixIngredient = Math.floor(Math.random() * Collection.length);
 let CollectionList  = 'ingr-' + mix;
 document.getElementById(CollectionList).innerHTML = Collection[MixIngredient]
 }
 
+// Get a random color logic for mixing
 function getRandomColor() {
   let letters = '0123456789ABCDEF';
   let color = '#';
@@ -61,8 +64,10 @@ function getRandomColor() {
   return color;
 }
 
+// Paint the color
 document.getElementById("?").style.color= getRandomColor();
 
-console.log('Designers Code: Nice Scent', getRandomColor());
+// Console The designers code
+console.log('Designers Code:', getRandomColor());
 
 }
