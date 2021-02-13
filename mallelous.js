@@ -37,7 +37,7 @@ let Collection =
 'Natural Scent','Pepper','Fresh','Mint','Agrumen',
 'Aldehyde','Amber','Ambergris','Ambrette','Amyris',
 'Benzoin','Calone','Cashmeran','Castoreum','Citron',
-'Clary Sage',Coumarin','Frangipani','Frankincense',
+'Clary Sage','Coumarin','Frangipani','Frankincense',
 'Galbanum','Guaiac Wood','Hedione,'Heliotrope',
 'Indole','Iso E Super','Jasmine','Labdanum','Monoi',
 'Muguet','Musk','Myrrh','Narciussus','Neroli','Oakmoss',
