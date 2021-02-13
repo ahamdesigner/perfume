@@ -1,6 +1,6 @@
 ![sense perfume.cmsl](fragrance.jpeg)
 
-# Fragrance
+# Scent
 Perfect standard perfume
 
 # Aim
