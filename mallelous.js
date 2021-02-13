@@ -33,16 +33,17 @@ for (let avatar = 1; avatar <= 9; avatar++) {
 // Get the 3 ingredients.
 let Collection =  
 [
-'Vetiver',
-'Woody',
-'Citrus',
-'Mint',
-'Cardamom',
-'Natural Scent',
-'Saffron',
-'Pepper',
-'Fresh',
-'Mint'
+'Vetiver','Woody','Citrus','Mint','Cardamom','Saffron',
+'Natural Scent','Pepper','Fresh','Mint','Agrumen',
+'Aldehyde','Amber','Ambergris','Ambrette','Amyris',
+'Benzoin','Calone','Cashmeran','Castoreum','Citron',
+'Clary Sage',Coumarin','Frangipani','Frankincense',
+'Galbanum','Guaiac Wood','Hedione,'Heliotrope',
+'Indole','Iso E Super','Jasmine','Labdanum','Monoi',
+'Muguet','Musk','Myrrh','Narciussus','Neroli','Oakmoss',
+'Orris','Osmanthus','Oudh','Patchouli','Rose',
+'Rose de Mai','Sandalwood','Tonka Bean','Tuberose',
+'Vanila','Ylang Ylang'
 ];
 
 for (let mix = 0; mix < 3; mix++) {
