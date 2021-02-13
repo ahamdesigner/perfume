@@ -31,9 +31,24 @@ for (let avatar = 1; avatar <= 9; avatar++) {
 }
 
 // Get the 3 ingredients.
-for (let ingredient = 0; ingredient < 3; ingredient++) {
-  
- 
+let Ingredients =  
+[
+'Vetiver',
+'Woody',
+'Citrus',
+'Mint',
+'Cardamom',
+'Natural Scent',
+'Saffron',
+'Pepper',
+'Fresh',
+'Mint'
+];
+
+for (let mix = 0; mix < 3; mix++) {
+let MixIngredient = Math.floor(Math.random() * Ingredients.length);
+let IngredientsList  = 'ingr-' + mix;
+document.getElementById(IngredientsList).innerHTML = Ingredients[MixIngredient]
 }
 
 function getRandomColor() {
