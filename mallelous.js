@@ -46,7 +46,7 @@ let Collection =
 ];
 
 for (let mix = 0; mix < 3; mix++) {
-let MixIngredient = Math.floor(Math.random() * Collection);
+let MixIngredient = Math.floor(Math.random() * Collection.length);
 let CollectionList  = 'ingr-' + mix;
 document.getElementById(CollectionList).innerHTML = Collection[MixIngredient]
 }
