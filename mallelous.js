@@ -38,7 +38,7 @@ let Collection =
 'Aldehyde','Amber','Ambergris','Ambrette','Amyris',
 'Benzoin','Calone','Cashmeran','Castoreum','Citron',
 'Clary Sage','Coumarin','Frangipani','Frankincense',
-'Galbanum','Guaiac Wood','Hedione,'Heliotrope',
+'Galbanum','Guaiac Wood','Hedione','Heliotrope',
 'Indole','Iso E Super','Jasmine','Labdanum','Monoi',
 'Muguet','Musk','Myrrh','Narciussus','Neroli','Oakmoss',
 'Orris','Osmanthus','Oudh','Patchouli','Rose',
