@@ -39,4 +39,4 @@ Secure
 വിശ്വമിത്ര
 
 # Captions
-Discovered the undiscovered
+Discovered
