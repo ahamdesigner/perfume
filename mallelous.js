@@ -26,7 +26,13 @@ contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
 }
 
+
 for (let avatar = 1; avatar <= 9; avatar++) {
+}
+
+for (let step = 0; step < 3; step++) {
+  // Runs 3 times, with values of step 0 through 2.
+ 
 }
 
 function getRandomColor() {
