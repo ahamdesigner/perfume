@@ -21,7 +21,7 @@ function getDate(){
   let today = new Date();
 }
 
-// Enable aura for participants
+// Enable aura
 let contract = document.getElementById('participate')
 contract.onclick = function() {
   document.getElementById('aura').removeAttribute('hidden')
