@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Noto+Sans&display=swap');
 
-body {
+:root {
  font-family: 'Comfortaa';
  background-color: #FFFAFA;
 }
