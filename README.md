@@ -21,9 +21,6 @@ Brilliant mixing with master presision.
 Featuring Intelligent live gradient fade in switch with
 Comfortable fade out to fade in feature
 
-# Pricing
-Fixed Pricing
-
 # Product ranges (Supported)
 Custom ★
 Design ൦
