@@ -1,0 +1,36 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="white"/>
+<circle cx="181" cy="320" r="12.5" fill="#72DDFF" stroke="#C4C4C4" stroke-width="3"/>
+<circle cx="131" cy="216" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 131 424)" fill="#C4C4C4"/>
+<circle cx="77" cy="272" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 77 368)" fill="#C4C4C4"/>
+<circle cx="231" cy="216" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 231 424)" fill="#C4C4C4"/>
+<circle cx="77" cy="216" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 77 424)" fill="#C4C4C4"/>
+<circle cx="181" cy="216" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 181 424)" fill="#B7ECFD"/>
+<circle cx="181" cy="272" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 181 368)" fill="#B7ECFD"/>
+<circle cx="259" cy="244" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 259 396)" fill="#B7ECFD"/>
+<circle cx="259" cy="320" r="14" fill="#B7ECFD"/>
+<circle cx="259" cy="182" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 259 458)" fill="#B7ECFD"/>
+<circle cx="181" cy="182" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 181 458)" fill="#B7ECFD"/>
+<circle cx="105" cy="182" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 105 458)" fill="#B7ECFD"/>
+<circle cx="103" cy="244" r="14" fill="#B7ECFD"/>
+<circle r="14" transform="matrix(1 0 0 -1 103 396)" fill="#B7ECFD"/>
+<circle cx="103" cy="320" r="14" fill="#B7ECFD"/>
+<circle cx="284" cy="272" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 284 368)" fill="#C4C4C4"/>
+<circle cx="231" cy="272" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 231 368)" fill="#C4C4C4"/>
+<circle cx="131" cy="272" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 131 368)" fill="#C4C4C4"/>
+<circle cx="284" cy="216" r="14" fill="#C4C4C4"/>
+<circle r="14" transform="matrix(1 0 0 -1 284 424)" fill="#C4C4C4"/>
+</svg>
