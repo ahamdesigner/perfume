@@ -1,4 +1,4 @@
-![sense perfume.cmsl](fragrance.jpeg)
+![perfume.cmsl](fragrance.jpeg)
 
 # Scent
 Perfect standard perfume
@@ -31,9 +31,6 @@ Super virtual and github.
 
 # Privacy
 Secure
-
-# Supported by
-വിശ്വമിത്ര
 
 # Captions
 Discovered
