@@ -10,7 +10,7 @@ Result.
 Result Access Manifest.
 
 # Vision
-A world.
+World.
 
 # Mission
 Activate good times.
