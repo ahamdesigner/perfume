@@ -4,7 +4,7 @@
     "description": "Digital fragrance",
     "display": "standalone",
     "atom":"ऊँ",
-    "start_url": "digitalimage.html",
+    "start_url": "image.html",
     "scope": "/",
     "manifest":"manifest",
     "background_color": "#ffa500",
