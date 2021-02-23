@@ -1,4 +1,4 @@
-// Pwa identify the contents
+// scent identify the contents
 window.onload=function() {
 // Make the console available in the Pwa itself
 (function () {
@@ -15,7 +15,7 @@ window.onload=function() {
     }
 })();
 
-//Get the date today
+//Get hero date today
 getDate()
 function getDate(){
   let today = new Date();
