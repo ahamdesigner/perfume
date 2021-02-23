@@ -19,8 +19,7 @@
     "energy":"Kailash",
     "survivor":"cockroach",
     "way":"ayurveda",
-    "curse":"pandanus",
-    "diffuse":"gravity",
+    "diffuse":"തേജോവലയം",
     "evolution":"evolve",
     "icons":[{
       "src":"green.png",
@@ -28,5 +27,5 @@
       "sizes":"512x512",
       "purpose": "maskable"
     }],
-    "Ambience":"portableAc"
+    "Ambience":"വൈകുണ്ഠം"
 }
