@@ -7,7 +7,7 @@
     "start_url": "image.html",
     "scope": "/",
     "manifest":"manifest",
-    "background_color": "#ffa500",
+    "background_color": "#FFFFFF",
     "theme_color": "#00FFFF",
     "orientation":"natural",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
