@@ -1,1 +1,7 @@
+acceptance if true then show
+if alergy then false and skip
+if permission granded only then proceed
+filter permission.name(rating) let permission list
+get permission then show
+
 
