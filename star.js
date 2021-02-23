@@ -68,6 +68,6 @@ function getRandomColor() {
 document.getElementById("?").style.color= getRandomColor();
 
 // Console The designers code
-console.log('Designers Code:', getRandomColor());
+console.log('Designers #032425 Random (:', getRandomColor());
 
 }
