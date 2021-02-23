@@ -54,6 +54,9 @@ let CollectionList  = 'ingr-' + mix;
 document.getElementById(CollectionList).innerHTML = Collection[MixIngredient]
 }
 
+// Get guarantee
+document.getElementById('ingr-4').innerHTML = Collection.slice(-1)[0]
+
 // Get a random color logic for mixing
 function getRandomColor() {
   let letters = '0123456789ABCDEF';
