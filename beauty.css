@@ -129,7 +129,11 @@ em:focus {
   }
 }
 
-#ingr-4,.copyright {
+#ingr-4 {
  color:#032425;
  margin-top:12px;
+}
+
+.copyright {
+ color:#032425;
 }
