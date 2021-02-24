@@ -117,6 +117,7 @@ em:focus {
 .chakra {
   animation: blinker 1s linear infinite;
   margin-top: 10px;
+  color:#032425;
 }
 
 @keyframes blinker {
