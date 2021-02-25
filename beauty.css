@@ -125,6 +125,7 @@ em:focus {
 
 .chakra  {
   animation: chakra 2s infinite linear;
+  display:block;
 } 
 
 @keyframes chakra {
