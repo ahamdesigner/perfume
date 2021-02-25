@@ -39,6 +39,9 @@ Sample: single spray
 
 Signature: Z#082017@072029B008
 
+if compatability true return true
+Else if support try activate Heal
+
 Heal:view-source:https://ahamdesigner.github.io/
 Nakshatra/heal.html&datetime&resedency&realtime&name
 &stars&house&Customnode&heal
