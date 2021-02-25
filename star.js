@@ -44,7 +44,8 @@ let Collection =
 'Muguet','Musk','Myrrh','Narciussus','Neroli','Oakmoss',
 'Orris','Osmanthus','Oudh','Patchouli','Rose',
 'Rose de Mai','Sandalwood','Tonka Bean','Tuberose',
-'Vanila','Ylang Ylang','Chrysanthemum','star anise seed','Padmanabham'
+'Vanila','Ylang Ylang','Chrysanthemum','star anise seed',
+'Padmanabham','Jupiter'
 ];
 
 // Mix 3 ingredients from collection
