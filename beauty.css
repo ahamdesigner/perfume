@@ -114,19 +114,22 @@ em:focus {
  fill: orange;
 }
 
-.chakra {
-  animation: blinker 1s linear infinite;
-  margin-top: 10px;
+.chakra  {
+  animation: chakra 2s infinite linear;
+} 
+
+@keyframes chakra {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 
 #log {
    color:#032425;
-}
-
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
+   margin-top: 10px;
 }
 
 #ingr-4 {
