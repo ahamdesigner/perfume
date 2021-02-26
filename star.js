@@ -45,7 +45,7 @@ let Collection =
 'Orris','Osmanthus','Oudh','Patchouli','Rose',
 'Rose de Mai','Sandalwood','Tonka Bean','Tuberose',
 'Vanila','Ylang Ylang','Chrysanthemum','star anise seed',
-'Padmanabham','Jupiter'
+'Jupiter'
 ];
 
 // Mix 3 ingredients from collection
