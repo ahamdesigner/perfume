@@ -39,11 +39,11 @@ Sample: single spray
 
 Signature: Z#082017@072029B008
 
-if compatability true return true
-Else if support try activate Heal
+if compatability return true
+If support try activate Repair
 
-Heal:view-source:https://ahamdesigner.github.io/
-Nakshatra/heal.html&datetime&resedency&realtime&name
+Repair:view-source:https://ahamdesigner.github.io/
+Nakshatra/repair.html&datetime&resedency&realtime&name
 &stars&house&Customnode&heal
 
 Heal method: Realtime healing with slow transition
