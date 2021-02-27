@@ -34,8 +34,8 @@ for (let ശ്യാം = 0; ശ്യാം <= 9; ശ്യാം++) {
 // Get Collection of ingredients.
 let Collection =  
 [
-'ചെമ്പരത്തി','രാമച്ചം','ഏലയ്ക്ക','കുങ്കുമപ്പൂവ്','മുല്ല',
-'റോസ','ചന്ദനം','ശ്യാം'
+'ശ്യാം','ചെമ്പരത്തി','രാമച്ചം','ഏലയ്ക്ക','കുങ്കുമപ്പൂവ്','മുല്ല',
+'റോസ','ചന്ദനം'
 ];
 
 // Mix 3 ingredients from collection
@@ -46,7 +46,7 @@ document.getElementById(CollectionList).innerHTML = Collection[MixIngredient]
 }
 
 // Get guarantee
-document.getElementById('ingr-4').innerHTML = Collection.slice(-1)[0]
+document.getElementById('ingr-4').innerHTML = Collection[0]
 
 // Get a random color logic for mixing
 function getRandomColor() {
