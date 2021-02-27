@@ -34,8 +34,8 @@ for (let ശ്യാം = 0; ശ്യാം <= 9; ശ്യാം++) {
 // Get Collection of ingredients.
 let Collection =  
 [
-'രാമച്ചം','ഏലയ്ക്ക','കുങ്കുമപ്പൂവ്','മുല്ല',
-'റോസ','ചന്ദനം','ശ്യാം','ചെമ്പരത്തി'
+'ചെമ്പരത്തി','രാമച്ചം','ഏലയ്ക്ക','കുങ്കുമപ്പൂവ്','മുല്ല',
+'റോസ','ചന്ദനം','ശ്യാം'
 ];
 
 // Mix 3 ingredients from collection
@@ -61,7 +61,7 @@ function getRandomColor() {
 // Paint the color
 document.getElementById("?").style.color= getRandomColor();
 
-// Console The designers code
-console.log('Designers #032425 Designed ', getRandomColor());
+// yoga nidra 
+console.log('');
 
 }
