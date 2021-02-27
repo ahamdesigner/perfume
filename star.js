@@ -34,17 +34,8 @@ for (let ശ്യാം = 0; ശ്യാം <= 9; ശ്യാം++) {
 // Get Collection of ingredients.
 let Collection =  
 [
-'Vetiver','Woody','Citrus','Mint','Cardamom','Saffron',
-'Natural Scent','Pepper','Fresh','Mint','Agrumen',
-'Aldehyde','Amber','Ambergris','Ambrette','Amyris',
-'Benzoin','Calone','Cashmeran','Castoreum','Citron',
-'Clary Sage','Coumarin','Frangipani','Frankincense',
-'Galbanum','Guaiac Wood','Hedione','Heliotrope',
-'Indole','Iso E Super','Jasmine','Labdanum','Monoi',
-'Muguet','Musk','Myrrh','Narciussus','Neroli','Oakmoss',
-'Orris','Osmanthus','Oudh','Patchouli','Rose',
-'Rose de Mai','Sandalwood','Tonka Bean','Tuberose',
-'Vanila','Ylang Ylang','Chrysanthemum','ശ്യാം'
+'രാമച്ചം','ഏലയ്ക്ക','കുങ്കുമപ്പൂവ്','മുല്ല',
+'റോസ','ചന്ദനം','ശ്യാം','ചെമ്പരത്തി'
 ];
 
 // Mix 3 ingredients from collection
