@@ -28,7 +28,7 @@ contract.onclick = function() {
 }
 
 // Age the collections
-for (let age = 1; age <= 9; age++) {
+for (let ശ്യാം = 0; ശ്യാം <= 9; ശ്യാം++) {
 }
 
 // Get Collection of ingredients.
@@ -44,8 +44,7 @@ let Collection =
 'Muguet','Musk','Myrrh','Narciussus','Neroli','Oakmoss',
 'Orris','Osmanthus','Oudh','Patchouli','Rose',
 'Rose de Mai','Sandalwood','Tonka Bean','Tuberose',
-'Vanila','Ylang Ylang','Chrysanthemum','star anise seed',
-'Jupiter'
+'Vanila','Ylang Ylang','Chrysanthemum','ശ്യാം'
 ];
 
 // Mix 3 ingredients from collection
