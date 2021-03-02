@@ -11,16 +11,16 @@
     "theme_color": "#032425",
     "orientation":"natural",
     "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
-    "lang": "ml sa en",
+    "lang": "view-source:https://raw.githubusercontent.com/ahamdesigner/sanskrit/main/api",
     "flower":"live",
     "fruit":"live",
-    "odor":"pleasant",
+    "smell":"pleasant",
     "guest":"Syam",
     "host":"പത്മനാഭം",
     "energy":"Kailash",
     "survivor":"cockroach",
     "way":"ayurveda",
-    "Integration":"ayush",
+    "integration":"ayush",
     "diffuse":"തേജോവലയം",
     "evolution":"evolve",
     "icons":[{
@@ -29,10 +29,10 @@
       "sizes":"512x512",
       "purpose": "maskable"
     }],
-    "Ambience":"വൈകുണ്ഠം",
+    "ambience":"വൈകുണ്ഠം",
     "installation":"view-source:https://raw.githubusercontent.com/ahamdesigner/perfume/main/install",
-    "Navigation":"Clear",
-    "Graphics":"Monitors Maya Devices",
+    "navigation":"Clear",
+    "graphics":"Monitors Maya Devices",
     "Mobile":"Friendly",
     "beauty":"magnificent"
 }
