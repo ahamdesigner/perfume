@@ -35,5 +35,6 @@
     "graphics":"view-source:https://raw.githubusercontent.com/ahamdesigner/graphics/main/graphics.engine",
     "sound":"view-source:https://raw.githubusercontent.com/ahamdesigner/sound/main/sound.card",
     "Mobile":"Friendly",
-    "beauty":"magnificent"
+    "beauty":"magnificent",
+    "cli":"view-source:https://raw.githubusercontent.com/ahamdesigner/macr/main/macr.terminal.svg"
 }
