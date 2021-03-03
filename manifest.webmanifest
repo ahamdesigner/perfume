@@ -3,7 +3,7 @@
     "short_name": "Scent",
     "description": "Fragrance",
     "display": "standalone",
-    "atom":"ऊँ",
+    "atom":"https://raw.githubusercontent.com/ahamdesigner/proof/main/proof.ऊँ",
     "start_url": "image.html",
     "scope": "/",
     "manifest":"view-source:https://raw.githubusercontent.com/ahamdesigner/macr/main/macr.cycle",
