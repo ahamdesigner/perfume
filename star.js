@@ -34,7 +34,7 @@ for (let ശ്യാം = 0; ശ്യാം <= 9; ശ്യാം++) {
 // Get Collection of ingredients.
 let Collection =  
 [
-'Scent OS'
+'ScentOs'
 ];
 
 // Get guarantee
