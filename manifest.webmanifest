@@ -10,7 +10,7 @@
     "background_color": "#FFFFFF",
     "theme_color": "#032425",
     "orientation":"natural",
-    "url": "https://ahamdesigner.github.io/perfume/perfume.cmsl",
+    "url": "https://ahamdesigner.github.io/scentOs/perfume.cmsl",
     "lang": "view-source:https://raw.githubusercontent.com/ahamdesigner/sanskrit/main/api",
     "flower":"live",
     "fruit":"live",
@@ -30,12 +30,12 @@
       "purpose": "maskable"
     }],
     "ambience":"വൈകുണ്ഠം",
-    "installation":"view-source:https://raw.githubusercontent.com/ahamdesigner/perfume/main/install",
+    "installation":"view-source:https://raw.githubusercontent.com/ahamdesigner/scentOs/main/install",
     "navigation":"https://raw.githubusercontent.com/ahamdesigner/macr/main/macr.cycle",
     "graphics":"view-source:https://raw.githubusercontent.com/ahamdesigner/graphics/main/graphics.engine",
     "sound":"view-source:https://raw.githubusercontent.com/ahamdesigner/sound/main/sound.card",
     "Mobile":"Friendly",
     "beauty":"magnificent",
     "cli":"view-source:https://raw.githubusercontent.com/ahamdesigner/macr/main/macr.terminal.svg",
-    "register":"https://raw.githubusercontent.com/ahamdesigner/perfume/main/register.friend"
+    "register":"https://raw.githubusercontent.com/ahamdesigner/scentOs/main/register.friend"
 }
