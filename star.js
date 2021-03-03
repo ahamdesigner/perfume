@@ -15,7 +15,7 @@ window.onload=function() {
     }
 })();
 
-//Get hero date today
+//Get hero date
 getDate()
 function getDate(){
   let today = new Date();
@@ -28,7 +28,8 @@ contract.onclick = function() {
 }
 
 // Age the collections
-for (let ശ്യാം = 0; ശ്യാം <= 9; ശ്യാം++) {
+for (let virtualage = 0; virtualage <= 9; virtualage++) {
+
 }
 
 // Get Collection of ingredients.
