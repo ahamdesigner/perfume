@@ -150,3 +150,8 @@ em:focus {
 .copyright {
  color:#032425;
 }
+
+.terminal {
+ cursor:pointer;
+ display:list-item;
+}
