@@ -154,4 +154,6 @@ em:focus {
 .terminal {
  cursor:pointer;
  display:list-item;
+ text-decoration: none;
+ font-size: large;
 }
