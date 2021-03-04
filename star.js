@@ -1,4 +1,4 @@
-const ₹ = 'revenue'
+const ₹ = 2
 // scent identify the contents
 window.onload=function() {
 // Make the console available in the Pwa itself
