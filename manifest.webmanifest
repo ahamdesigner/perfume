@@ -2,7 +2,7 @@
     "name": "Fragrance",
     "short_name": "ScentOs",
     "description": "Fragrance",
-    "display": "standalone",
+    "display": "browser",
     "atom":"https://raw.githubusercontent.com/ahamdesigner/proof/main/proof.ऊँ",
     "start_url": "image.html",
     "scope": "/",
