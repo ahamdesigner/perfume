@@ -1,4 +1,5 @@
 // scent identify the contents 
+window.onload=function() {
 // Make the console available in the Pwa itself
 (function () {
     let old = console.log;
