@@ -1,5 +1,4 @@
-const U+20B9 = '₹'
-// scent identify the contents
+// scent identify the contents const U+20B9 = ₹
 window.onload=function() {
 // Make the console available in the Pwa itself
 (function () {
