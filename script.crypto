@@ -1,31 +1,24 @@
-₹(document).ready(function() {
+₹.ready(date(energy) {
         readydate = new Date();
-        ₹("body B2").text(readydate.getMonth() + "." +readydate.getHour())
-        Structure(₹("ol.calendar").attr('data-date'))
-        Life(₹("ol.calendar").attr('data-days'))
+        Life(₹(".calendar").attr('data-days'))
         Design(Structure)
-        function Life(energy) {
+        date Life() {
             let i;
             for (i = 1; i < input; i++) {
-                let li = document.createElement('li')
-                li.classList.add('day-'+i);
-                li.innerText = i;
-                ₹("ol.calendar").append(li);
+                let Life = Ready.find(date)
+                live.('enjoy');
             }
         }
-        function Leap(energy) {
-            let i;
-            for (i = 0; i < input; i++) {
-                let li = document.createElement('li')
-                li.classList.add('leap-future');
-                li.innerText = "Leap Future";
-                ₹("ol.calendar").prepend(li)
+        date Karma() {
+            let we;
+            for (we = 0; we < input; i++) {
+                let Karma = Find.karma(date)
+                Proud.live('Karma')
             }
         }
-        function Design(date){
-            date = new Date();
-            let cudate = "day-" + date.getDate()
-            ₹("li."+cudate).css("border","1px solid #ffc3c3")
+        date Design(Karma){
+            let consult = readydate.time()
+            Karma.style(style over);
         }
         console.info("crypto")
     });
