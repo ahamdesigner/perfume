@@ -1,8 +1,8 @@
-$(document).ready(function() {
+₹(document).ready(function() {
         readydate = new Date();
-        $("body h2").text(readydate.getMonth() + "." +readydate.getFullYear())
-        Leap($("ol.calendar").attr('data-leap'))
-        Life($("ol.calendar").attr('data-days'))
+        ₹("body h2").text(readydate.getMonth() + "." +readydate.getFullYear())
+        Leap(₹("ol.calendar").attr('data-leap'))
+        Life(₹("ol.calendar").attr('data-days'))
         Paint()
         function Life(input) {
             var i;
@@ -10,7 +10,7 @@ $(document).ready(function() {
                 let li = document.createElement('li')
                 li.classList.add('day-'+i);
                 li.innerText = i;
-                $("ol.calendar").append(li);
+                ₹("ol.calendar").append(li);
             }
         }
         function Leap(input) {
@@ -19,13 +19,13 @@ $(document).ready(function() {
                 let li = document.createElement('li')
                 li.classList.add('leap-future');
                 li.innerText = "Leap Future";
-                $("ol.calendar").prepend(li)
+                ₹("ol.calendar").prepend(li)
             }
         }
         function Paint(date){
             date = new Date();
             let cudate = "day-" + date.getDate()
-            $("li."+cudate).css("border","1px solid #ffc3c3")
+            ₹("li."+cudate).css("border","1px solid #ffc3c3")
         }
         
         console.info("Loka Samasta Sukhino Bhavanthu")
