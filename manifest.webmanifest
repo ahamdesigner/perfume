@@ -17,7 +17,7 @@
     "smell":"pleasant",
     "guest":"Syam",
     "host":"പത്മനാഭം",
-    "energy":"Kailash",
+    "energy":"energy/core",
     "survivor":"cockroach",
     "way":"ayurveda",
     "integration":"ayush",
@@ -37,5 +37,6 @@
     "Mobile":"Friendly",
     "beauty":"magnificent",
     "cli":"view-source:https://raw.githubusercontent.com/ahamdesigner/macr/main/macr.terminal.svg",
-    "register":"https://raw.githubusercontent.com/ahamdesigner/scentOs/main/register.friend"
+    "register":"https://raw.githubusercontent.com/ahamdesigner/scentOs/main/register.friend",
+    "mixer":"energy/scentmixer.virtual.svg"
 }
