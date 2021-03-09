@@ -23,6 +23,7 @@
     "integration":"ayush",
     "diffuse":"തേജോവലയം",
     "evolution":"evolve",
+    "branch":"master",
     "icons":[{
       "src":"green.png",
       "type":"image/png",
