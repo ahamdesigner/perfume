@@ -1,4 +1,9 @@
-refer ahamdesigner/scentOs/Design/body.temple
+ahamdesigner/scentOs/Design/body.temple
+
+आ नो भद्रा: क्रतवो यन्तु विश्वत:
+Let noble thoughts come to us from every side.
+आ नो भद्रा: क्रतवो यन्तु विश्वत:
+The Divine forces do not help those who do not toil themselves.
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
