@@ -1,0 +1,2 @@
+Avatar from Avatars/
+if (Avatar) fade.in(slow) else||exit fade.out(fast)
