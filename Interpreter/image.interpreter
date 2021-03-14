@@ -1,1 +1,34 @@
 interpreter interpreted  compiler compiled
+
+values=["x","y"]
+value=x||y
+special=x&&y
+super=!=x||y
+Compiled = compiled
+
+interpreter = if(value) {
+ if(value = x) {
+  interpreter interpreted(values[0])
+ } else (value = y) {
+  interpreter interpreted(values[1])
+ }
+ if (special) {
+  interpreter interpreted(values[0]) && compiled(values[1])
+ }
+
+}
+
+compiler = if (super) {
+   compiler compiled(value)
+}
+
+images = ['interpreted','compiled']
+
+image = compiled
+story = interpreted
+
+result = if (image) {
+ image save exit to story
+} 
+
+
