@@ -1,7 +1,7 @@
 friends=[]
-for (let friend = 0; friend <= ∞; friend++) {
+for (let friend = x; friend <= ∞; friend) {
  if(friend){
-  buddy = friend + friend.नाम
-  friends.append(buddy) 
+  buddy = friend + friend
+  friends.(buddy) 
  }
-} // register 0.नाम and so on
+} // register friend and so on
