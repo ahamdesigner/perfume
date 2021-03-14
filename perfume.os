@@ -1,13 +1,13 @@
 ahamdesigner/scentOs/Design/body.temple
 
 आ नो भद्रा: क्रतवो यन्तु विश्वत:
-Let noble thoughts come to us from every side.
+Let noble thoughts come for us from every side.
 आ नो भद्रा: क्रतवो यन्तु विश्वत:
-The Divine forces do not help those who do not toil themselves.
+The Divine forces help those by themselves.
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
-Dev /\ perfume.console=
+Dev:\\ perfume.console=
 if error || access && view return true
 elseif !error && access && view return true 
 
@@ -18,11 +18,11 @@ perfume.debug== perfume.console && interest {
 }
 
 perfume.Mix=focus id:#query pass query atom.listen[n:info] else 
-atom.search[n:library] && ready mix with perfume.Mixer
+atom.search[n:scentOs] && ready mix with perfume.Mixer
 
 digitalanalytics={
-'target': 'Intellectual';
-'interest':'Explore';
+'target': 'Client';
+'interest':'Perfume';
 }
 
 perfume.Brand=focus if id:#color
@@ -56,9 +56,9 @@ if Request  Support Queue ~ ??? then perfume.debug
 perfume.note=if keep Collaborator && email=super.syamnath@gmail.com
 then perfume.mixLogic Keep
 
-perfume.mixLogic=if indai.html import like choice then 
+perfume.mixLogic=if image.html import like choice then 
 perfume.Mix then perfume.Brand then 
-ready Odor with perfume.Stir Nose Flower Sniff result
+ready Odor with perfume.Sniff result
 
 perfume.upgrade=== perfume.digitalMarketing && perfume.mixLogic {
  perfume.limitedEdition perfume.note then experience Odor
@@ -77,10 +77,10 @@ perfume.choice= perfume.opinion {
   if like {experiance} else {skip}
  }
  if perfume.opinion {
-  if Support && Syam return authenticate
+  return authenticate
  }
  if perfume.design {
-  Interest || Best && merge in Collection
+  Interest || Best in Collection
  }
 }
 
@@ -90,15 +90,15 @@ then atom.atom next look '&&' and mergeall => atom
 
 atom
 
-result = atom.odor <= perfume.library
+result = atom.odor <= perfume.scentOs
 
-perfume.library = result.list sync result
+perfume.scentOs = result.list sync result
 
 manifest = manifest manifest.json
 
 perfume.host = manifest.host
 
-perfume.dispencer = if unconditional start dispencer
+perfume.dispencer = start dispencer
 else perfume.host => manifest
 
 perfume.host = confirm => access =>  manifest
@@ -113,7 +113,7 @@ perfume.level = manifest.survivor with multi
 directional sensors compose Gradient <= level => manifest
 
 body.energy = manifest.energy <= energy => get energy 
-and !heat => manifest
+and heat => manifest
 
 perfume.fresh = body.remove sweat and make 
 cool <= perfume.fresh => manifest
