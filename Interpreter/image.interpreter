@@ -36,3 +36,6 @@ scan = if (image) {
 }
 
 start scan
+
+x=0
+y=1
