@@ -31,4 +31,8 @@ result = if (image) {
  image save exit to story
 } 
 
+scan = if (image) {
+ view image
+}
 
+start scan
