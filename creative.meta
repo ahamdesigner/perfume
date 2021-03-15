@@ -1,10 +1,10 @@
 <name="description" content="Scent">
 <meta name="barbrik" purpose="identify & Protect" />
-<meta https-equiv="content" content="min-age=18" />
+<meta https-equiv="content" content="global" />
 <meta http-equiv="pragma" content="no-cache" />
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="robots" content="noindex,follow">
+<meta name="robots" content="noindex,nofollow">
 <meta name="google" content="translate" />
 <meta name="google" content="nopagereadaloud" />
 <meta name="rating" content="general" />
