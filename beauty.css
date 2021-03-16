@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Extended+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+EAN13+Text&display=swap');
 
 :root {
- font-family: 'Libre Barcode 39 Extended Text', serif;
+ font-family: 'Libre Barcode EAN13 Text', serif;
  background-color: #FFFAFA;
  display: -webkit-box;
  display: -webkit-flex;
