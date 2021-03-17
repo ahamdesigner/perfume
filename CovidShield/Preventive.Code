@@ -1,5 +1,7 @@
+
 if(covid){
  install preventive
 } else {
+ // cli = scentOs/Terminal/cmd.terminal.svg
  cli install
 }
