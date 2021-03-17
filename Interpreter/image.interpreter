@@ -40,7 +40,7 @@ start scan
 x=0
 y=1
 
-loop(start at y loop 7) exit
+loop(star at loop 7) exit
 
 virtual = !super
 
