@@ -3,7 +3,7 @@ interpreter interpreted  compiler compiled
 values=["x","y"]
 value=x||y
 special=x&&y
-super=!=x||y
+super!=x||y
 Compiled = compiled
 
 interpreter = if(value) {
@@ -43,3 +43,4 @@ y=1
 loop(start at y loop 7) exit
 
 virtual = !super
+
