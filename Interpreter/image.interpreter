@@ -44,3 +44,9 @@ loop(start at y loop 7) exit
 
 virtual = !super
 
+I = 'self'
+
+If (I) {
+ Abhyasa-The Practice
+}
+
