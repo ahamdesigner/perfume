@@ -1,1 +1,5 @@
-
+if(covid){
+ install preventive
+} else {
+ cli install
+}
