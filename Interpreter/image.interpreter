@@ -48,5 +48,7 @@ I = 'self'
 
 If (I) {
  Abhyasa-The Practice
+ chant("Om Namah Shivaya","Om Sri Ram Jai Ram",
+ "Hare Krishna" || "Allah-hu" || 'hu' || 'Om')
 }
 
