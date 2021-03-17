@@ -1,1 +1,5 @@
-
+stories = collect compiled
+story = ()
+story = (stories) {
+ read = I
+}
