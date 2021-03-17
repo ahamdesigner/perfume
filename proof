@@ -1,0 +1,4 @@
+1=['SHYAM']
+if(1){
+proof(1[0]) // returns SHYAM
+}
