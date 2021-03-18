@@ -1,3 +1,4 @@
 if I = true
 locate @scentos_bot command /connect /connected 
 /avatar type name with pin 0000
+avatar clock /TWEG17800-64 1A
