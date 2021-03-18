@@ -1,1 +1,4 @@
+if I = true
+locate @scentos_bot command /connect /connected 
+/avatar
 
