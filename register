@@ -1,7 +1,7 @@
 friends=[]
 for (let friend; friend <= ∞; friend.next) {
  if(friend){
-  buddyies = friend . friend.next
+  buddies = friend . friend.next
   friends(buddies) 
  }
 } // register friends and so on
