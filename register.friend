@@ -1,7 +1,7 @@
 friends=[]
-for (let friend = x; friend <= ∞; friend) {
+for (let friend; friend <= ∞; friend.next) {
  if(friend){
-  buddy = friend + friend
-  friends.(buddy) 
+  buddyies = friend . friend.next
+  friends(buddies) 
  }
-} // register friend and so on
+} // register friends and so on
