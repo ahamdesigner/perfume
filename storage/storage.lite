@@ -1,0 +1,8 @@
+scan storage 
+if(storage.type = fat) {
+ install storage.virtual
+}
+after install share (fat) {
+ share excess fat => energy
+}
+storage.virtual start
