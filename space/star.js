@@ -2,7 +2,7 @@
 
     let brackets = console.log;
     let connector = document.getElementById("port");
-    function brackets() {
+    brackets = function() {
       for (let i = 0; i < arguments.length; i++) {
         if (typeof arguments[i] == "object") {
             connector.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]);
