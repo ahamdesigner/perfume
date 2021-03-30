@@ -1,23 +1,7 @@
-//Port the console
-
-    let brackets = console.log;
-    let connector = document.getElementById("port");
-    brackets = function() {
-      for (let i = 0; i < arguments.length; i++) {
-        if (typeof arguments[i] == "object") {
-            connector.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]);
-        } else {
-            connector.innerHTML += arguments[i];
-        }
-      }
-    }
-
-
 //Get date
 getDate()
 function getDate(){
   let today = new Date();
-  brackets()
 }
 
 //Enable contract
