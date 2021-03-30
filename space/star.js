@@ -15,9 +15,6 @@ let Collection =
 "ScentOs"
 ];
 
-//Get guarantee
-document.getElementById("ingr").innerHTML = Collection[0]
-
 //Get a random color logic for mixing
 function getRandomColor() {
   let letters = "0123456789ABCDEF";
