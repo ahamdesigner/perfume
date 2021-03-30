@@ -5,7 +5,7 @@ function getDate(){
 }
 
 //Age collections
-for (let virtualage = 0; virtualage <= 9; virtualage++) {
+for (let virtualage = 19; virtualage <= 35; virtualage++) {
 
 }
 
