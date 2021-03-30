@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+f@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
 :root {
  font-family: 'Train One', cursive;
  background-color: #FFFAFA;
@@ -11,6 +11,10 @@
  -ms-flex-align: center;
  -webkit-align-items: center;
  align-items: center;
+}
+
+body {
+ width: 100%;
 }
 
 .clearfix:after {
