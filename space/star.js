@@ -17,7 +17,7 @@
 getDate()
 function getDate(){
   let today = new Date();
-  portal()
+  brackets()
 }
 
 //Enable contract
