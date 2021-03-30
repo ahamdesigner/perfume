@@ -1,60 +1,58 @@
-// scent identify the contents 
-window.onload=function() {
-// Make the console available in the Pwa itself
-(function () {
-    let old = console.log;
-    let logger = document.getElementById('log');
-    console.log = function () {
+//Port the console
+
+    let brackets = console.log;
+    let connector = document.getElementById("port");
+    function brackets() {
       for (let i = 0; i < arguments.length; i++) {
-        if (typeof arguments[i] == 'object') {
-            logger.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<div class="clearfix"></div>';
+        if (typeof arguments[i] == "object") {
+            connector.innerHTML += (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]);
         } else {
-            logger.innerHTML += arguments[i] + '<div class="clearfix"></div>';
+            connector.innerHTML += arguments[i];
         }
       }
     }
-})();
 
-//Get hero date
+
+//Get date
 getDate()
 function getDate(){
   let today = new Date();
+  portal()
 }
 
-// Enable aura
-let contract = document.getElementById('participate')
+//Enable contract
+let contract = document.getElementById("participate")
 contract.onclick = function() {
-  document.getElementById('aura').removeAttribute('hidden')
+  document.getElementById("aura").removeAttribute("hidden")
 }
 
-// Age the collections
+//Age collections
 for (let virtualage = 0; virtualage <= 9; virtualage++) {
 
 }
 
-// Get Collection of ingredients.
+//Get Collection of ingredients.
 let Collection =  
 [
-'ScentOs'
+"ScentOs"
 ];
 
-// Get guarantee
-document.getElementById('ingr').innerHTML = Collection[0]
+//Get guarantee
+document.getElementById("ingr").innerHTML = Collection[0]
 
-// Get a random color logic for mixing
+//Get a random color logic for mixing
 function getRandomColor() {
-  let letters = '0123456789ABCDEF';
-  let color = '#';
+  let letters = "0123456789ABCDEF";
+  let color = "#";
   for (let i = 0; i < 6; i++) {
     color += letters[Math.floor(Math.random() * 16)];
   }
   return color;
 }
 
-// Paint the color
+//Paint the color
 document.getElementById("?").style.color= getRandomColor();
 
-// yoga nidra 
-console.log('');
+var x = document.getElementsByTagName("body")
 
-}
+console.log(x);
