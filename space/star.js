@@ -4,12 +4,6 @@ function getDate(){
   let today = new Date();
 }
 
-//Enable contract
-let contract = document.getElementById("participate")
-contract.onclick = function() {
-  document.getElementById("aura").removeAttribute("hidden")
-}
-
 //Age collections
 for (let virtualage = 0; virtualage <= 9; virtualage++) {
 
