@@ -1,3 +1,2 @@
 # scentOs
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-moved to Ultrona/scentOs
+[![No Maintenance Intended moved to Ultrona/scentOs ](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
