@@ -7,7 +7,7 @@ The Divine forces help those by themselves.
 
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
-Dev:\\ perfume.console=
+perfume.console=
 if error || access && view return true
 elseif !error && access && view return true 
 
