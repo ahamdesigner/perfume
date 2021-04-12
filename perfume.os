@@ -21,8 +21,8 @@ perfume.Mix=focus id:#query pass query atom.listen[n:info] else
 atom.search[n:scentOs] && ready mix with perfume.Mixer
 
 digitalanalytics={
-'target': 'Client';
-'interest':'Perfume';
+'target': 'Client Self';
+'interest':'Perfume intellect';
 }
 
 perfume.Brand=focus if id:#color
